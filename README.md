@@ -1,6 +1,6 @@
 # Global Network Strategy
 
-This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by @claudioruiz
+This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz)
 
 ## Documents
 
