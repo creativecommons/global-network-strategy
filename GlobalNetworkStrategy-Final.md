@@ -1,8 +1,11 @@
-Creative Commons - Global Network Strategy
+# Creative Commons 
+# Global Network Strategy
 
 June, 2017.
 
 -- Here you will find the [consolidated PDF version](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) for external reference.
+
++++ 
 
 
 # Table of Contents
@@ -263,7 +266,7 @@ The responsibilities of the CC Chapter are:
 
 Currently, some affiliate teams receive and manage resources via another organization or institution, which hosts a grant or funds that are applied to the work of the local team. In this model, that kind of support should be allowed to continue. In the new model, the organization should become a Network Partner, and their official participation as part of the Chapter would allow them to host the funding as they do currently. That Network Partner will also have to have a signed trademark agreement with CC HQ.
 
-*[See why we are now using Chapters instead of Country Teams](https://creativecommons.org/2017/06/16/network-strategy-whats-next/)*
+-- [See why we are now using Chapters instead of Country Teams](https://creativecommons.org/2017/06/16/network-strategy-whats-next/)
 
 ## The Broader CC Movement
 
