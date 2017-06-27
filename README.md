@@ -2,13 +2,6 @@
 
 This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz)
 
-## Documents
-
-* [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
-* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
-* Ryan's slides at the Summit
-* [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
-
 ## The Transition
 
 For the first time, the CC movement has completed a comprehensive and collaborative effort to renew and grow its network, finalized at the recent Global Summit in Toronto. It’s important to acknowledge the hard work of all the people involved from the beginning, which included research (the Faces of the Commons is a 300 page multi region report with recommendations and insights), an open consultation with the broad CC community including Affiliates, partners, funders, and the CC Board, and 22 online and in-person meetings and more than the eighty percent of the active members of the network involved. This bottom-up process included discussions, proposals and specific edits and changes, reflecting the dynamic global community we have built together around Creative Commons during all this years. We all should be proud of all this process.
@@ -21,11 +14,18 @@ For the first time, the CC movement has completed a comprehensive and collaborat
 Shared decision-making, goal-setting, structure for collaboration. The new strategy creates new governance bodies to provide space for the community to identify priorities for the global work. This is a first for CC: the network takes care of the network.
 * **Resource allocation**. The strategy creates two funds specifically focused on the network to support community activities, actual project work and identified movement priorities.
 
-More information about the What's Next on the new Strategy, on the blogpost wrote by Alek T., Ryan M. and Claudio R. Also, [on the CC Website](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
+More information about the [What's Next on the new Strategy](https://creativecommons.org/2017/06/16/network-strategy-whats-next/), on the blogpost wrote by Alek T., Ryan M. and Claudio R. Also, [on the CC Website](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
 
----
+## Documents
 
-### Timeline
+* [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
+* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
+* Ryan's slides at the Summit
+* [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
+
+
+
+## Timeline
 
 1. Chapters
     * National members
@@ -41,6 +41,6 @@ More information about the What's Next on the new Strategy, on the blogpost wrot
 		* Develop the plan of work: 2017 / April/May 2018 (Global Summit)
 
 3. Governance
-		* Open call to constitute an Advisory Group: June 2017.
-		* Memberships first application process: July-August 2017
-		* First Global Network Council meeting: April/May 2018 (Global Summit)
+	* Open call to constitute an Advisory Group: June 2017.
+	* Memberships first application process: July-August 2017
+	* First Global Network Council meeting: April/May 2018 (Global Summit)
