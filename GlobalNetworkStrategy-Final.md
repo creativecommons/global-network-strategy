@@ -1,12 +1,14 @@
-# Creative Commons - Global Network Strategy
+Creative Commons - Global Network Strategy
 
 June, 2017.
 
--- Here you will find the [consolidated PDF version](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) for external reference
+-- Here you will find the [consolidated PDF version](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) for external reference.
+
+
+# Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Creative Commons - Global Network Strategy](#creative-commons-global-network-strategy)
 - [Context and background information](#context-and-background-information)
 	- [A community-led process to revitalize and grow the CC network](#a-community-led-process-to-revitalize-and-grow-the-cc-network)
 	- [The Global Network Strategy Steering Committee](#the-global-network-strategy-steering-committee)
@@ -22,7 +24,7 @@ June, 2017.
 	- [General concept](#general-concept)
 	- [Membership and Partnership](#membership-and-partnership)
 		- [Becoming a CCGN Member or Partner](#becoming-a-ccgn-member-or-partner)
-		- [Chapters [^See why we are now using Chapters instead of Country Teams https://creativecommons.org/2017/06/16/network-strategy-whats-next/]](#chapters-see-why-we-are-now-using-chapters-instead-of-country-teams-httpscreativecommonsorg20170616network-strategy-whats-next)
+		- [Chapters](#chapters)
 	- [The Broader CC Movement](#the-broader-cc-movement)
 	- [Governance: Global Network Council](#governance-global-network-council)
 - [Platform Framework](#platform-framework)
@@ -39,7 +41,6 @@ June, 2017.
 		- [Fundraising for CC Chapters and projects](#fundraising-for-cc-chapters-and-projects)
 - [Glossary / List of Entities](#glossary-list-of-entities)
 
-<!-- /TOC -->
 
 # Context and background information
 
@@ -233,23 +234,23 @@ Existing Network Members can request, on stated grounds, that a membership appli
 
 Network Members and Partners need to sign the Global Network Charter, to be developed by the CCGN in consultation with the global community, which defines the rights and responsibilities of Network Members and Partners. The current MoU structure will be eliminated, and the Charter, combined with a trademark agreement for use of the CC name, will replace it for Network Members and Partners. The formal process and final Charter will be defined at a later date. This will be the new agreement between both the individual or organization and the network, and the individual or organization with CC HQ. Network Members and Partners will have to renew their membership periodically every 2 years.
 
-### Chapters [^See why we are now using Chapters instead of Country Teams https://creativecommons.org/2017/06/16/network-strategy-whats-next/]
+### Chapters
 
-A Country Team is constituted by all Network Members, Partners and other contributing people and organizations working in a particular country. Contributors who are not Members may also participate in Chapters. How Chapters organize themselves should be determined locally, and will depend on local characteristics, preferences, needs, resources, and priorities. Nothing in this section is intended to limit the ability of Chapters to develop and maintain an organizational structure that could include management and coordination, governance processes, designated spokespeople, or designated subject matter leads who speak on key issues. Chapters may also define limits and offer guidance to members in their team as to how they can operate and speak on behalf of CC in that country.
+A Chapter is constituted by all Network Members, Partners and other contributing people and organizations working in a particular country. Contributors who are not Members may also participate in Chapters. How Chapters organize themselves should be determined locally, and will depend on local characteristics, preferences, needs, resources, and priorities. Nothing in this section is intended to limit the ability of Chapters to develop and maintain an organizational structure that could include management and coordination, governance processes, designated spokespeople, or designated subject matter leads who speak on key issues. Chapters may also define limits and offer guidance to members in their team as to how they can operate and speak on behalf of CC in that country.
 
 There may be limited circumstances where there is good reason to have more than one team within a given jurisdiction. The GNC will review these on a case-by-case basis.
 
-The CCGN establishes four basic rules that need to be adhered to by every Country Team:
+The CCGN establishes four basic rules that need to be adhered to by every CC Chapter:
 
-* Chapters must be open to all Network Members and Partners that are working in that country. (A Network Member or Partner may only be affiliated with one Country Team at a time. However, this does not preclude them from doing projects or contributing in other countries).
+* Chapters must be open to all Network Members and Partners that are working in that country. (A Network Member or Partner may only be affiliated with one CC Chapter at a time. However, this does not preclude them from doing projects or contributing in other countries).
 
-* Each Country Team will send one representative to the Global Network Council. Representatives are elected for a period, likely 1 or 2 years, to be determined at a later date.
+* Each CC Chapter will send one representative to the Global Network Council. Representatives are elected for a period, likely 1 or 2 years, to be determined at a later date.
 
-* Each Country Team will select an individual to be responsible for coordinating and communicating on behalf of Country Team activities. They will serve as a point of contact for CC HQ when forwarding or responding to inquiries regarding activities in that country. This is analogous to the "public lead" in the current model, but each community may select their own appropriate title for the position. This person may be the representative to the Global Network Council but is not required to be.
+* Each CC Chapter will select an individual to be responsible for coordinating and communicating on behalf of CC Chapter activities. They will serve as a point of contact for CC HQ when forwarding or responding to inquiries regarding activities in that country. This is analogous to the "public lead" in the current model, but each community may select their own appropriate title for the position. This person may be the representative to the Global Network Council but is not required to be.
 
 * Chapters agree to work by consensus. This does not mean that all members must make every decision together, or that structures of authority and decision-making cannot be established using a consensus model; it requires that teams work openly, and voices must be heard and considered before making a final decision. In situations of conflict, Chapters can appeal to the Global Network Council’s Dispute Resolution Committee.
 
-The responsibilities of the Country Team are:
+The responsibilities of the CC Chapter are:
 
 * Run activities and provide support to local projects.
 * Serve as a contact and information point for questions about CC.
@@ -260,7 +261,9 @@ The responsibilities of the Country Team are:
 * Elect a representative for the Global Network Council and ensure their role and responsibilities are actively fulfilled.
 * Ensure jurisdictional positions align with global positions of platforms, where they exist.
 
-Currently, some affiliate teams receive and manage resources via another organization or institution, which hosts a grant or funds that are applied to the work of the local team. In this model, that kind of support should be allowed to continue. In the new model, the organization should become a Network Partner, and their official participation as part of the country team would allow them to host the funding as they do currently. That Network Partner will also have to have a signed trademark agreement with CC HQ.
+Currently, some affiliate teams receive and manage resources via another organization or institution, which hosts a grant or funds that are applied to the work of the local team. In this model, that kind of support should be allowed to continue. In the new model, the organization should become a Network Partner, and their official participation as part of the Chapter would allow them to host the funding as they do currently. That Network Partner will also have to have a signed trademark agreement with CC HQ.
+
+*[See why we are now using Chapters instead of Country Teams](https://creativecommons.org/2017/06/16/network-strategy-whats-next/)*
 
 ## The Broader CC Movement
 
@@ -334,7 +337,7 @@ CC HQ is an active member of the movement, participates in the CCGN, and support
 
 * It consults further development of the (existing) legal tools with the GNC (via the License Stewardship Committee)
 
-* It provides communication tools for internal (i.e., mailing lists, slack channels) and external (i.e., Country Team websites, slack channels) communication
+* It provides communication tools for internal (i.e., mailing lists, slack channels) and external (i.e., CC Chapter websites, slack channels) communication
 
 * It consults the GNC as part of its own strategic planning
 
@@ -344,7 +347,7 @@ CC HQ is an active member of the movement, participates in the CCGN, and support
 
 ## HQ support and funding
 
-CC is made up of several interconnected elements: the global network of Network Members, Network Partners, and contributors, and the charity based in the United States (CC HQ). Fundraising is led globally by CC HQ, and the organization has set a strategic priority of growing and supporting the network. This section outlines where and how CC HQ will provide support; how the CCGN will participate in fundraising activities (together and for Country Team projects); and how we will fund Platform activities. CC HQ will provide direct financial investment and management in the following areas, to support the activities of the CCGN:
+CC is made up of several interconnected elements: the global network of Network Members, Network Partners, and contributors, and the charity based in the United States (CC HQ). Fundraising is led globally by CC HQ, and the organization has set a strategic priority of growing and supporting the network. This section outlines where and how CC HQ will provide support; how the CCGN will participate in fundraising activities (together and for CC Chapter projects); and how we will fund Platform activities. CC HQ will provide direct financial investment and management in the following areas, to support the activities of the CCGN:
 
 ### Staff
 
@@ -392,13 +395,13 @@ Many CC network teams (country or project based) will need to solicit funds for 
 
 It is in the interest of the CC network that we co-ordinate appeals to international funders to ensure they do not receive concurrent (or even overlapping) requests from multiple network teams. CC HQ manages a global fundraising pipeline of funders and needs to be able to set priorities for funding and manage relationships. In addition, multiple and sometimes conflicting appeals will reduce our success in raising funds. Sharing information regarding funders and funds received also helps build a more resilient network, and ensure we are maximizing our fundraising potential through co-ordination. Finally, CC HQ has an obligation to meet specific requirements to maintain its tax status in the US, to adhere to grant reporting and other obligations imposed by funders when funding is secured in the name of, or as endorsed or supported by, CC, and to protect the integrity of the brand and reputation of the organization.
 
-Network teams may seek funding for local in-country projects under the name of their CC Country Team (e.g., CC El Salvador). A set of detailed processes will be developed, but in general, the following rules will apply:
+Network teams may seek funding for local in-country projects under the name of their CC Chapter (e.g., CC El Salvador). A set of detailed processes will be developed, but in general, the following rules will apply:
 
-* Network Members and Partners must have the express support of their Country Team to solicit funding for their project as a CC country initiative
+* Network Members and Partners must have the express support of their CC Chapter to solicit funding for their project as a CC country initiative
 
-* Teams, Network Members, and Network Partners must report annually on funds raised under the CC country name to their Country Team and to CC HQ. This information will be shared with the Global Network
+* Teams, Network Members, and Network Partners must report annually on funds raised under the CC country name to their CC Chapter and to CC HQ. This information will be shared with the Global Network
 
-* When fundraising with international funders (those who fund beyond the jurisdiction of the Country Team), Teams, Network Members, and Network Partners must notify CC HQ in advance of their project and their intended funder list, and receive approval from CC HQ to appeal for funds using their CC affiliation. Solicitations may not identify CC HQ as a project supporter, partner, or participant without express permission from CC HQ. CC HQ may provide advice and support, including grant or proposal review, and strategic advice. CC HQ reserves the right to lead or co-ordinate the approach with the funder
+* When fundraising with international funders (those who fund beyond the jurisdiction of the CC Chapter), Teams, Network Members, and Network Partners must notify CC HQ in advance of their project and their intended funder list, and receive approval from CC HQ to appeal for funds using their CC affiliation. Solicitations may not identify CC HQ as a project supporter, partner, or participant without express permission from CC HQ. CC HQ may provide advice and support, including grant or proposal review, and strategic advice. CC HQ reserves the right to lead or co-ordinate the approach with the funder
 
 * CC HQ may, at any time, cancel or withdraw support for a project if it contravenes its policies, endangers its tax statutes, violates agreements with CC funders, or otherwise is considered harmful or damaging to CC
 
@@ -420,9 +423,9 @@ CC HQ and network teams may also collaborate directly to raise funds for a speci
 
 * **Contributor**: An individual or an organization who actively participates in the CC movement, but is not a formal member of the CCGN. Contributors can, in particular, participate in Platforms
 
-* **Country Team**: A group consisting of all Network Members and Partners based in a particular country. Country Team members may also work internationally with other teams
+* **CC Chapter**: A group consisting of all Network Members and Partners based in a particular country. CC Chapter members may also work internationally with other teams
 
-* **Global Network Council**: Consists of 1 representative from each Country Team, plus 3 representatives from CC HQ, including CC’s CEO, who is ex-officio member. Convenes once a year
+* **Global Network Council**: Consists of 1 representative from each CC Chapter, plus 3 representatives from CC HQ, including CC’s CEO, who is ex-officio member. Convenes once a year
 
 * **Dispute Resolution Committee of the GNC**: Consists of 5 elected members of the GNC. Meets as needed
 
