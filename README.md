@@ -4,17 +4,10 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 
 ## Documents
 
-<<<<<<< HEAD
-* [Creative Commons Network Strategy](global-network-strategy/blob/master/docs/GlobalNetworkStrategy-Final.pdf)
+* [Creative Commons Network Strategy](global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md)
 * [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
 * Ryan's slides at the Summit
 * [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
-=======
-* [Creative Commons Network Strategy](docs/GlobalNetworkStrategy-Final.pdf)
-* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
-* Ryan's slides at the Summit
-* [Claudio's slides at the Summit](docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
->>>>>>> 3c44761a5a1a189d4e4a93063388258fc71992da
 
 ## The Transition
 
