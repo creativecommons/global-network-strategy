@@ -16,6 +16,13 @@ Shared decision-making, goal-setting, structure for collaboration. The new strat
 
 More information about the [What's Next on the new Strategy](https://creativecommons.org/2017/06/16/network-strategy-whats-next/), on the blogpost wrote by Alek T., Ryan M. and Claudio R. Also, [on the CC Website](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
 
+## The Advisory Group for the transition
+
+There is a group of volunteers we called Advisory Group working together for guiadance and advise during the Transition period. This group is composed by Bilal Randeree (CC Qatar), Delia Browne (AU), Felix Nartey (Ghana), Mariana Valente (BR), Meredith Jacobs (US), Nic Suzor (AU), Paul Keller (NL), Scann (AR), Tomoaki Watanabe (JP). Thanks to all of them as well.
+
+* **Next meeting**: Friday, July 14. 
+* [Meeting notes](/docs/advisory_group_meeting_notes.md)
+
 ## Documents
 
 * [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
