@@ -1,9 +1,4 @@
 # Advisory Group Meeting notes
 
-**Date**: July 14, 2017. 
-**Participants**:
-* 
-* 
-
-**Agenda / Notes**:
-* 
+* [Meeting #1 (14.07.2017)](https://github.com/creativecommons/global-network-strategy/blob/master/docs/advisory_group_meeting_14.07.2017.md)
+* Meeting #2 (TBD)
