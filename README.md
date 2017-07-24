@@ -23,14 +23,16 @@ There is a group of volunteers we called Advisory Group working together for gui
 * **Next meeting**: day TBD on the week of July 24th.
 * [Meeting notes](/docs/advisory_group_meeting_notes.md)
 
+## Network Platforms
+
+* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
+* [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
+
 ## Documents
 
 * [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
-* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
 * Ryan's slides at the Summit
 * [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
-* [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
-
 
 
 ## Timeline
