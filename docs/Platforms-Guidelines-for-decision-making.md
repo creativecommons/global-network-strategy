@@ -7,7 +7,7 @@ A Platform is an “area of work” that can have goals, objectives, policy posi
 Basic elements or principles underlying the idea of a CC Platform during this transition period:
 
 1. Platforms organize and coordinate collaboration across the CCGN.
-2. Platforms are open to anyone willing to participate and abid our code of conduct.
+2. Platforms are open to anyone willing to participate and to abid by our code of conduct.
 3. Platforms enable diverse and widespread participation.
 4. After the transition, Platforms will be reviewed and approved (or not) by the CC Global Network Council (GNC).
 
