@@ -20,7 +20,8 @@ More information about the [What's Next on the new Strategy](https://creativecom
 
 There is a group of volunteers we called Advisory Group working together for guiadance and advise during the Transition period. This group is composed by Bilal Randeree (CC Qatar), Delia Browne (AU), Felix Nartey (Ghana), Mariana Valente (BR), Meredith Jacobs (US), Nic Suzor (AU), Paul Keller (NL), Scann (AR), Tomoaki Watanabe (JP). Thanks to all of them as well.
 
-* **Next meeting**: July 25th.
+* Last meeting: July 25th.
+* **Next meeting**: TBA
 * [Meeting notes](/docs/advisory_group_meeting_notes.md)
 
 ## Network Platforms
