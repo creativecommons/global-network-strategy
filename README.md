@@ -4,11 +4,11 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 
 ## Content
 
-* [**The CC Network Transition**](#the-transition)
-* [**The Advisory Group for the transition**](#the-advisory-group-for-the-transition)
-* [**CC Network Platforms**](#cc-network-platforms)
-* [**Documents**](#documents)
-* [**Timelines**](#timelines)
+* [The CC Network Transition](#the-transition)
+* [The Advisory Group for the transition](#the-advisory-group-for-the-transition)
+* [CC Network Platforms](#cc-network-platforms)
+* [Documents](#documents)
+* [Timelines](#timelines)
 
 ## The Transition
 
