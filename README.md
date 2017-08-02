@@ -24,19 +24,28 @@ There is a group of volunteers we called Advisory Group working together for gui
 * **Next meeting**: TBA
 * [Meeting notes](/docs/advisory_group_meeting_notes.md)
 
-## Network Platforms
+## CC Network Platforms
 
-* [What is a Platform](https://docs.google.com/document/d/1rlVotXHK0CQ5oC6dbyIRfpCUcq9RqpltgAgDtxFqQ3k/edit#)
-* [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
+Platforms are how we organize areas of work for the Creative Commons community, where individuals and institutions organize and coordinate themselves across the CC Global Network.
+
+Platforms are the way we create and communicate strategic collaboration to have worldwide impact – it is the way our network [works collaboratively](/docs/Platforms-Guidelines-for-decision-making.md). The platforms are open to anyone willing to contribute and develop usable, vibrant and collaborative global commons.
+
+Learn more about our current CC Network Platforms and how you can join the conversation on:
+
+| Network Platforms        | 
+| ------------- |
+| [Copyright Reform](/copyright-reform-platform.md)      |
+| [Open Education](/Open-Education-platform.md)      |
+| [GLAM (Galleries, Libraries, Archives & Museums)](/GLAM-platform.md) |
+| [Community Development](/community-dev-platform) |
 
 ## Documents
 
 * [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
-* Ryan's slides at the Summit
 * [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
+* [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
 
-
-## Timeline
+## Timelines
 
 1. Chapters
     * National members
