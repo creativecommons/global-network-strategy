@@ -2,6 +2,14 @@
 
 This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz)
 
+## Content
+
+* [**The CC Network Transition**](#the-transition)
+* [**The Advisory Group for the transition**](#the-advisory-group-for-the-transition)
+* [**CC Network Platforms**](#cc-network-platforms)
+* [**Documents**](#documents)
+* [**Timelines**](#timelines)
+
 ## The Transition
 
 For the first time, the CC movement has completed a comprehensive and collaborative effort to renew and grow its network, finalized at the recent Global Summit in Toronto. It’s important to acknowledge the hard work of all the people involved from the beginning, which included research (the Faces of the Commons is a 300 page multi region report with recommendations and insights), an open consultation with the broad CC community including Affiliates, partners, funders, and the CC Board, and 22 online and in-person meetings and more than the eighty percent of the active members of the network involved. This bottom-up process included discussions, proposals and specific edits and changes, reflecting the dynamic global community we have built together around Creative Commons during all this years. We all should be proud of all this process.
@@ -34,10 +42,10 @@ Learn more about our current CC Network Platforms and how you can join the conve
 
 | Network Platforms        | 
 | ------------- |
-| [Copyright Reform](/copyright-reform-platform.md)      |
-| [Open Education](/Open-Education-platform.md)      |
-| [GLAM (Galleries, Libraries, Archives & Museums)](/GLAM-platform.md) |
-| [Community Development](/community-dev-platform) |
+| [Copyright Reform](/platforms/copyright-reform-platform.md)      |
+| [Open Education](/platforms/Open-Education-platform.md)      |
+| [GLAM (Galleries, Libraries, Archives & Museums)](/platforms/GLAM-platform.md) |
+| [Community Development](/platforms/community-dev-platform) |
 
 ## Documents
 
