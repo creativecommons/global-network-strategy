@@ -45,12 +45,12 @@ Learn more about our current CC Network Platforms and how you can join the conve
 | [Copyright Reform](/platforms/copyright-reform-platform.md)      |
 | [Open Education](/platforms/Open-Education-platform.md)      |
 | [GLAM (Galleries, Libraries, Archives & Museums)](/platforms/GLAM-platform.md) |
-| [Community Development](/platforms/community-dev-platform) |
+| [Community Development](/platforms/community-dev-platform.md) |
 
 ## Documents
 
 * [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
-* [Claudio's slides at the Summit](global-network-strategy/blob/master/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
+* [Claudio's slides at the Summit](/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
 * [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
 
 ## Timelines
