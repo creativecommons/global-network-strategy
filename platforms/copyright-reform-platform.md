@@ -59,6 +59,7 @@ Copyright policy is formulated and implemented on a number of different levels. 
 Considering the above areas of engagement, we can identify several potential copyright reform platform activities that could be explored.
 
 *Reboot participation at WIPO*
+
 The Creative Commons organisation is a registered observer at WIPO, but over the years has only been minimally involved in the copyright discussions in Geneva. This role could be filled by members of the CCGN who use the observer status as a conduit to express the policy positions of the Network at WIPO. CC HQ should facilitate this by providing (travel) budget and making staff available to participate in WIPO sessions. WIPO also presents a good opportunity to coordinate with other global NGOs that work towards strengthening the commons. 
 
 *Participate in national (and supranational) copyright reform opportunities*
