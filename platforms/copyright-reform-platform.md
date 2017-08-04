@@ -63,12 +63,15 @@ Considering the above areas of engagement, we can identify several potential cop
 The Creative Commons organisation is a registered observer at WIPO, but over the years has only been minimally involved in the copyright discussions in Geneva. This role could be filled by members of the CCGN who use the observer status as a conduit to express the policy positions of the Network at WIPO. CC HQ should facilitate this by providing (travel) budget and making staff available to participate in WIPO sessions. WIPO also presents a good opportunity to coordinate with other global NGOs that work towards strengthening the commons. 
 
 *Participate in national (and supranational) copyright reform opportunities*
+
 The Creative Commons Global Network should identify opportunities for policy engagement and provide domain experience where appropriate. CC HQ should provide communications and policy assistance, and facilitate collaborations between CCGN members who wish to intervene in policy processes and discussions, run issue-based campaigns, and attend relevant events. 
 
 *Organize around trade agreement negotiations regarding copyright and user rights*
+
 Since copyright policymaking is taking place increasingly within regional and multilateral trade agreements (TPP, NAFTA, TTIP, RCEP, etc.), the CCGN should track and identify opportunities for intervention and education around protecting user rights, expanding the commons, and promoting transparency and public participation in negotiations. The CCGN can draft and publish joint statements, coordinate with other civil society organisations on actions, and participate in events.  
 
 *Develop and maintain copyright reform resource page on CC website*
+
 The Creative Commons Global Network should coordinate with CC HQ to create and maintain a website with information and resources relevant to our policy work and copyright reform activities. 
 
 ## Decisionmaking and Communications
