@@ -14,6 +14,13 @@ Creative Commons is committed to copyright policy advocacy, and it makes sense t
 
 This means that the Creative Commons Global Network should include a platform for copyright reform. CC affiliates have been vocal in their desire to engage within copyright policy discussions to influence law reform in the area. The [Creative Commons copyright reform statement](https://creativecommons.org/2013/10/16/supporting-copyright-reform/) was initiated by affiliate network members and adopted by Creative Commons in 2013 at the Global summit in Buenos Aires. And several individuals and organisations are already actively involved in copyright reform activities. 
 
+## Rationale
+There are three main reasons why copyright reform is an issue that Creative Commons should focus on: 
+1. Copyright provides the legal basis for the tools offered by Creative Commons, and changes to copyright can affect how these tools function, 
+2. Creative Commons is perceived to be a stakeholder in discussions about copyright policy (both by our friends as well as our enemies), and 
+3. Copyright is the most important regulative framework that shapes the digital commons, and thus directly influences the ability to realize our vision. 
+
+
 ## Goals and Objectives 
 
 ## Achievements - what has been done so far
