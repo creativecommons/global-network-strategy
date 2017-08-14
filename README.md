@@ -47,10 +47,10 @@ Learn more about our current CC Network Platforms and how you can join the conve
 
 | Network Platforms        | 
 | ------------- |
-| [Copyright Reform](https://github.com/creativecommons/network-platforms/copyright-reform.md)      |
-| [Open Education](https://github.com/creativecommons/network-platforms/Open-Education.md)      |
-| [GLAM (Galleries, Libraries, Archives & Museums)](https://github.com/creativecommons/network-platforms/GLAM.md) |
-| [Community Development](https://github.com/creativecommons/network-platforms/community-dev.md) |
+| [Copyright Reform](https://github.com/creativecommons/network-platforms/blob/master/copyright-reform.md)      |
+| [Open Education](https://github.com/creativecommons/network-platforms/blob/master/Open-Education.md)      |
+| [GLAM (Galleries, Libraries, Archives & Museums)](https://github.com/creativecommons/network-platforms/blob/master/GLAM.md) |
+| [Community Development](https://github.com/creativecommons/network-platforms/blob/master/community-dev.md) |
 
 ## Documents
 
