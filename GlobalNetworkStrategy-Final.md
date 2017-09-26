@@ -1,7 +1,7 @@
 # Creative Commons 
 # Global Network Strategy
 
-June, 2017.
+June, 2017. (*last reviewed 26.09.2017*)
 
 -- Here you will find the [consolidated PDF version](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) for external reference.
 
@@ -25,7 +25,7 @@ June, 2017.
 		- [Values and Guiding Principles](#values-and-guiding-principles)
 - [Creative Commons Global Network Model](#creative-commons-global-network-model)
 	- [General concept](#general-concept)
-	- [Membership and Partnership](#membership-and-partnership)
+	- [Membership](#membership)
 		- [Becoming a CCGN Member or Partner](#becoming-a-ccgn-member-or-partner)
 		- [Chapters](#chapters)
 	- [The Broader CC Movement](#the-broader-cc-movement)
@@ -205,15 +205,15 @@ The Creative Commons Global Network (CCGN) is the overarching structure to help 
 
 * Participate in global fundraising efforts
 
-The CCGN uses a membership model. It is composed of Network Members (individuals) and Partners (organisations). Individuals working in Partner organisations can join the network as individual Members as well. The Global Network Council (GNC) comprised of elected Network Members and CC HQ representatives is the governing and decision-making body for Network Members and Partners.
+The CCGN uses a membership model. It is composed of Network Members (individuals) and Institutional Members (organisations). Individuals working in Partner organisations can join the network as individual Members as well. The Global Network Council (GNC) comprised of elected Network Members and CC HQ representatives is the governing and decision-making body for Individual and Institutional Members.
 
-Both Members and Partners largely have the same rights and responsibilities.  Network Members can represent their Chapters in the GNC and have voting rights. However, as staff at Network Partners can change at any time, voting is restricted to individual members (who, notably, can also be employees of Network Partner organizations).
+Both Members and Institutional Members largely have the same rights and responsibilities.  Network Members can represent their Chapters in the GNC and have voting rights. However, as staff at Institutional Members can change at any time, voting is restricted to individual members (who, notably, can also be employees of Network Partner organizations).
 
-Network Members and Partners may be empowered to speak on behalf of their Chapters as CC (e.g., a statement of support for Freedom of Panorama, as CC Poland) in relation to issues covered in any of the activity Platforms defined by the CCGN. Chapters may establish spokespeople or subject matter leads for various issues, as needed, and teams will work collaboratively to determine the best structure to enable the work in their country.
+Individual and Institutional Members may be empowered to speak on behalf of their Chapters as CC (e.g., a statement of support for Freedom of Panorama, as CC Poland) in relation to issues covered in any of the activity Platforms defined by the CCGN. Chapters may establish spokespeople or subject matter leads for various issues, as needed, and teams will work collaboratively to determine the best structure to enable the work in their country.
 
-## Membership and Partnership
+## Membership 
 
-To become a Member or a Partner, individuals and organizations must:
+To become a Member or a Institutional Member, individuals and organizations must:
 
 1. Provide a brief summary of why they want to be a member
 
@@ -221,31 +221,31 @@ To become a Member or a Partner, individuals and organizations must:
 
 3. Sign the Network Charter
 
-In principle, any contributor to the movement with a track record of contribution who commits to the CCGN’s values and guiding principles and is willing to actively contribute to its activities and sustainability can be approved as a formal CCGN Member (if it concerns an individual) or Partner (if it concerns an organisation).
+In principle, any contributor to the movement with a track record of contribution who commits to the CCGN’s values and guiding principles and is willing to actively contribute to its activities and sustainability can be approved as a formal CCGN Member (if it concerns an individual) or Institutional Member (if it concerns an organisation).
 
-*Note: CCGN Members would not be "members" in formal legal sense under state, federal or other applicable laws governing CC HQ that would grant members rights thereunder. And CCGN Partners would not be “partners” in the formal sense under state, federal or other applicable laws governing legal “partnerships” for liability or any other legal purpose.*
+*Note: CCGN Members would not be "members" in formal legal sense under state, federal or other applicable laws governing CC HQ that would grant members rights thereunder. And CCGN Institutional Members would not be “partners” in the formal sense under state, federal or other applicable laws governing legal “partnerships” for liability or any other legal purpose.*
 
-The CCGN is designed to encourage broader membership beyond the current affiliate teams and organizations. We expect current affiliate team members and affiliate institutions to form the initial membership of the CCGN, but we recognize that not all people and organisations currently in the affiliate network may want to participate in governance and leadership roles as Members or Partners of the CCGN. The majority of the activities of the movement will take place in platforms — defined areas of work with established goals, objectives, and activities — for which no membership is required. We also do not expect every person contributing to the CC movement to join the CCGN structure to participate in governance. Regardless, everyone is welcome to contribute to activities as part of the movement without approval or formal membership.
+The CCGN is designed to encourage broader membership beyond the current affiliate teams and organizations. We expect current affiliate team members and affiliate institutions to form the initial membership of the CCGN, but we recognize that not all people and organisations currently in the affiliate network may want to participate in governance and leadership roles as Members or Institutional Members of the CCGN. The majority of the activities of the movement will take place in platforms — defined areas of work with established goals, objectives, and activities — for which no membership is required. We also do not expect every person contributing to the CC movement to join the CCGN structure to participate in governance. Regardless, everyone is welcome to contribute to activities as part of the movement without approval or formal membership.
 
 ### Becoming a CCGN Member or Partner
 
-Network membership is open to any individual that has a demonstrated record of activities that are advancing the goals of the CCGN. Network partnership is open to any organisation that has a demonstrated record of activities that are advancing the goals of the CCGN.
+Network membership is open to any individual that has a demonstrated record of activities that are advancing the goals of the CCGN. Institutional Membership is open to any organisation that has a demonstrated record of activities that are advancing the goals of the CCGN.
 
-To become a Network Member or Partner, the individual or organisation needs to be recommended by at least two existing members of the CCGN, who will describe the candidate’s activities in support of CC’s goals and objectives, and then approved by the Global Network Council (organisations that want to become Network Partners cannot be vouched for by their employees or people directly affiliated with the organisation).
+To become a Network Member or Partner, the individual or organisation needs to be recommended by at least two existing members of the CCGN, who will describe the candidate’s activities in support of CC’s goals and objectives, and then approved by the Global Network Council (organisations that want to become Institutional Members cannot be vouched for by their employees or people directly affiliated with the organisation).
 
 Existing Network Members can request, on stated grounds, that a membership application be referred to the GNC’s Dispute Resolution Committee, which may decline the application.
 
-Network Members and Partners need to sign the Global Network Charter, to be developed by the CCGN in consultation with the global community, which defines the rights and responsibilities of Network Members and Partners. The current MoU structure will be eliminated, and the Charter, combined with a trademark agreement for use of the CC name, will replace it for Network Members and Partners. The formal process and final Charter will be defined at a later date. This will be the new agreement between both the individual or organization and the network, and the individual or organization with CC HQ. Network Members and Partners will have to renew their membership periodically every 2 years.
+Individual and Institutional Members need to sign the Global Network Charter, to be developed by the CCGN in consultation with the global community, which defines the rights and responsibilities of Individual and Institutional Members. The current MoU structure will be eliminated, and the Charter, combined with a trademark agreement for use of the CC name, will replace it for Individual and Institutional Members. The formal process and final Charter will be defined at a later date. This will be the new agreement between both the individual or organization and the network, and the individual or organization with CC HQ. Individual and Institutional Members will have to renew their membership periodically every 2 years.
 
 ### Chapters
 
-A Chapter is constituted by all Network Members, Partners and other contributing people and organizations working in a particular country. Contributors who are not Members may also participate in Chapters. How Chapters organize themselves should be determined locally, and will depend on local characteristics, preferences, needs, resources, and priorities. Nothing in this section is intended to limit the ability of Chapters to develop and maintain an organizational structure that could include management and coordination, governance processes, designated spokespeople, or designated subject matter leads who speak on key issues. Chapters may also define limits and offer guidance to members in their team as to how they can operate and speak on behalf of CC in that country.
+A Chapter is constituted by all Network Members, Institutional Members and other contributing people and organizations working in a particular country. Contributors who are not Members may also participate in Chapters. How Chapters organize themselves should be determined locally, and will depend on local characteristics, preferences, needs, resources, and priorities. Nothing in this section is intended to limit the ability of Chapters to develop and maintain an organizational structure that could include management and coordination, governance processes, designated spokespeople, or designated subject matter leads who speak on key issues. Chapters may also define limits and offer guidance to members in their team as to how they can operate and speak on behalf of CC in that country.
 
 There may be limited circumstances where there is good reason to have more than one team within a given jurisdiction. The GNC will review these on a case-by-case basis.
 
 The CCGN establishes four basic rules that need to be adhered to by every CC Chapter:
 
-* Chapters must be open to all Network Members and Partners that are working in that country. (A Network Member or Partner may only be affiliated with one CC Chapter at a time. However, this does not preclude them from doing projects or contributing in other countries).
+* Chapters must be open to all Individual and Institutional Members that are working in that country. (A Network Member or Partner may only be affiliated with one CC Chapter at a time. However, this does not preclude them from doing projects or contributing in other countries).
 
 * Each CC Chapter will send one representative to the Global Network Council. Representatives are elected for a period, likely 1 or 2 years, to be determined at a later date.
 
@@ -272,7 +272,7 @@ Currently, some affiliate teams receive and manage resources via another organiz
 
 It is important to underscore that the Creative Commons movement goes well beyond the CCGN governance structure outlined in this proposal. It includes a multitude of contributors, professionals and activists working to further the goals of Creative Commons in their daily work and personal pursuits, and through organizations, governments, and institutions. All who contribute do so in projects and/or as part of their everyday professional activities or personal passions.
 
-We use the general term "Contributor" to describe people and organizations active in the CC movement who are not part of the CCGN structure, to distinguish them from formal Network Members and Partners. As a Contributor, any person or organisation still can participate and engage in the movement in areas including Platforms, CC Chapters, or collaborating in another capacity.
+We use the general term "Contributor" to describe people and organizations active in the CC movement who are not part of the CCGN structure, to distinguish them from formal Individual and Institutional Members. As a Contributor, any person or organisation still can participate and engage in the movement in areas including Platforms, CC Chapters, or collaborating in another capacity.
 
 ## Governance: Global Network Council
 
@@ -286,9 +286,9 @@ The Global Network Council has the following responsibilities:
 
 * It develops and monitors the strategy of the CCGN and provides input for the CC HQ strategy
 
-* It approves Platforms (defined areas of activity, based on a shared set of objectives that Network Members and Partners engage in) and resources at their disposal, including a budget
+* It approves Platforms (defined areas of activity, based on a shared set of objectives that Individual and Institutional Members engage in) and resources at their disposal, including a budget
 
-* It approves (or denies) new Network Members and Partners and their renewals.
+* It approves (or denies) new Individual and Institutional Members and their renewals.
 
 * It is tasked with growing the overall CC Global Network and the broader movement, and evaluating the CCGN   
 
@@ -306,13 +306,13 @@ The detailed decision-making procedures of the CCGN, including the GNC and its s
 
 A Platform is an "area of work" that can have goals, objectives, policy positions, individual and collaborative activities, and possibly also specific programs. It is a way of organizing and coordinating collaboration across the network, rather than simply an area of interest.
 
-Platforms are enabling structures for activities carried out by Members and Partners of the Creative Commons Global Network (CCGN). Platforms are approved by the Global Network Council (GNC). Platforms enable diverse and widespread participation while ensuring that activities of Network Members and Partners are strategically consistent. At a minimum, a Platform frames what a Network Member or Partner can say and do under the Creative Commons banner.
+Platforms are enabling structures for activities carried out by Members and Institutional Members of the Creative Commons Global Network (CCGN). Platforms are approved by the Global Network Council (GNC). Platforms enable diverse and widespread participation while ensuring that activities of Individual and Institutional Members are strategically consistent. At a minimum, a Platform frames what a Network Member or Partner can say and do under the Creative Commons banner.
 
 Platforms can be issue based (e.g., copyright reform, open education, GLAM, etc), region based or function based (e.g., mentoring). All platforms are based on a shared set of objectives defined in a document (relation to mission / scope of engagement / ways of working / resources).
 
 A Platform is based upon:
 
-* A position document that describes the shared set of objectives on a specific category of interest (global issue, network function, or regional coordination of work). The document sets out the Platform’s relationship to the CCGN’s mission, its scope of engagement, and the channels and ways through which Network Members, Network Partners, and contributors can participate in its work
+* A position document that describes the shared set of objectives on a specific category of interest (global issue, network function, or regional coordination of work). The document sets out the Platform’s relationship to the CCGN’s mission, its scope of engagement, and the channels and ways through which Network Members, Institutional Members, and contributors can participate in its work
 
 * A plan of work (including strategy, measures for success, methods for evaluation and reporting)
 
@@ -320,7 +320,7 @@ A Platform is based upon:
 
 A platform can be proposed by anyone in the broader movement. Each platform needs to be approved by the Global Network Council. Once a platform is approved, the Council will recommend a coordinator and resources to support its operations.
 
-While decision-making is limited to Network Members, participation in platform activities is open to anyone. Network Members, Network Partners, and contributors may join any platform and are expected to work together to achieve its goals. Platforms must provide clear, inclusive pathways for contribution, including a strategy for enhancing the diversity of participants.
+While decision-making is limited to Network Members, participation in platform activities is open to anyone. Network Members, Institutional Members, and contributors may join any platform and are expected to work together to achieve its goals. Platforms must provide clear, inclusive pathways for contribution, including a strategy for enhancing the diversity of participants.
 
 Platforms will develop their own consensus-based systems for organising participation, delegating responsibilities, and collaborating.
 
@@ -350,21 +350,21 @@ CC HQ is an active member of the movement, participates in the CCGN, and support
 
 ## HQ support and funding
 
-CC is made up of several interconnected elements: the global network of Network Members, Network Partners, and contributors, and the charity based in the United States (CC HQ). Fundraising is led globally by CC HQ, and the organization has set a strategic priority of growing and supporting the network. This section outlines where and how CC HQ will provide support; how the CCGN will participate in fundraising activities (together and for CC Chapter projects); and how we will fund Platform activities. CC HQ will provide direct financial investment and management in the following areas, to support the activities of the CCGN:
+CC is made up of several interconnected elements: the global network of Network Members, Institutional Members, and contributors, and the charity based in the United States (CC HQ). Fundraising is led globally by CC HQ, and the organization has set a strategic priority of growing and supporting the network. This section outlines where and how CC HQ will provide support; how the CCGN will participate in fundraising activities (together and for CC Chapter projects); and how we will fund Platform activities. CC HQ will provide direct financial investment and management in the following areas, to support the activities of the CCGN:
 
 ### Staff
 
-CC will hire and manage staff dedicated to supporting the CCGN. Currently, those positions include three full-time positions: a Network Manager (Simeon Oriko, Kenya), who provides daily support, communications, and administration for Network Members and Partners; an Events Coordinator (Alison Pearce), who leads event planning and support, particularly for the Global Summit; and a Director of Ecosystem Strategy (Claudio Ruiz, Chile), who is responsible for supporting the CCGN design process, implementation, and organizational transformation to work in an open, collaborative environment. Other positions may be required in the future. Staff dedicated to supporting the CCGN, who are managed by HQ, will have accountability to the CCGN by sharing reports on their activities, and receiving feedback and advice regarding the support they provide.
+CC will hire and manage staff dedicated to supporting the CCGN. Currently, those positions include three full-time positions: a Network Manager (Simeon Oriko, Kenya), who provides daily support, communications, and administration for Individual and Institutional Members; an Events Coordinator (Alison Pearce), who leads event planning and support, particularly for the Global Summit; and a Director of Ecosystem Strategy (Claudio Ruiz, Chile), who is responsible for supporting the CCGN design process, implementation, and organizational transformation to work in an open, collaborative environment. Other positions may be required in the future. Staff dedicated to supporting the CCGN, who are managed by HQ, will have accountability to the CCGN by sharing reports on their activities, and receiving feedback and advice regarding the support they provide.
 
 Further, CC staff are all engaged and committed to changing the way we work with the CCGN, and transforming CC programs to operate in a global, diverse, open culture of collaboration. The GNC will advise regularly on the supports provided and recommend improvements and changes.
 
 ### Secretariat
 
-The Global Network Council and its subcommittees will require administrative support to manage agendas, facilitate applications and renewals for Network Members and Partners, manage processes (e.g., dispute resolution, fund allocation), and support decision-making. CC HQ will support this with its staff subject to available budget that will be established with advice from with the CCGN and as approved by the Board of Directors.
+The Global Network Council and its subcommittees will require administrative support to manage agendas, facilitate applications and renewals for Individual and Institutional Members, manage processes (e.g., dispute resolution, fund allocation), and support decision-making. CC HQ will support this with its staff subject to available budget that will be established with advice from with the CCGN and as approved by the Board of Directors.
 
 ### Global Summit
 
-The Creative Commons Global Summit is an event that traditionally brings affiliates together with partners to learn and plan for future work. As part of its support for the CCGN, the Global Summit will become an annual event, and will include the annual in-person meeting of the Global Network Council. CC HQ will develop the event in collaboration with Network Members and Partners, and will lead on fundraising and sponsorship to support the event and travel subsidies.
+The Creative Commons Global Summit is an event that traditionally brings affiliates together with partners to learn and plan for future work. As part of its support for the CCGN, the Global Summit will become an annual event, and will include the annual in-person meeting of the Global Network Council. CC HQ will develop the event in collaboration with Individual and Institutional Members, and will lead on fundraising and sponsorship to support the event and travel subsidies.
 
 ### Activities Fund
 
@@ -390,7 +390,7 @@ There are two issues pertaining to fundraising: how CC HQ and the CCGN collabora
 
 ### Fundraising for the CCGN
 
-As the Global Network Strategy is intended to establish a new level of cooperation and collaboration across the movement, it is important that Network Members and Partners also participate in activities that help to raise funds for the CCGN’s activities. CC HQ and the Global Network Council will collaborate in the design and implementation of initiatives to raise funds dedicated to network activities, including, but not limited to: the Global Summit, the Global Initiatives Fund, major donor outreach, public fundraising campaigns, and grants that could be applied to provide support. CC HQ development and communications staff will lead these initiatives in collaboration with Network Members and Partners.
+As the Global Network Strategy is intended to establish a new level of cooperation and collaboration across the movement, it is important that Individual and Institutional Members also participate in activities that help to raise funds for the CCGN’s activities. CC HQ and the Global Network Council will collaborate in the design and implementation of initiatives to raise funds dedicated to network activities, including, but not limited to: the Global Summit, the Global Initiatives Fund, major donor outreach, public fundraising campaigns, and grants that could be applied to provide support. CC HQ development and communications staff will lead these initiatives in collaboration with Individual and Institutional Members.
 
 ### Fundraising for CC Chapters and projects
 
@@ -400,25 +400,25 @@ It is in the interest of the CC network that we co-ordinate appeals to internati
 
 Network teams may seek funding for local in-country projects under the name of their CC Chapter (e.g., CC El Salvador). A set of detailed processes will be developed, but in general, the following rules will apply:
 
-* Network Members and Partners must have the express support of their CC Chapter to solicit funding for their project as a CC country initiative
+* Individual and Institutional Members must have the express support of their CC Chapter to solicit funding for their project as a CC country initiative
 
-* Teams, Network Members, and Network Partners must report annually on funds raised under the CC country name to their CC Chapter and to CC HQ. This information will be shared with the Global Network
+* Teams, Network Members, and Institutional Members must report annually on funds raised under the CC country name to their CC Chapter and to CC HQ. This information will be shared with the Global Network
 
-* When fundraising with international funders (those who fund beyond the jurisdiction of the CC Chapter), Teams, Network Members, and Network Partners must notify CC HQ in advance of their project and their intended funder list, and receive approval from CC HQ to appeal for funds using their CC affiliation. Solicitations may not identify CC HQ as a project supporter, partner, or participant without express permission from CC HQ. CC HQ may provide advice and support, including grant or proposal review, and strategic advice. CC HQ reserves the right to lead or co-ordinate the approach with the funder
+* When fundraising with international funders (those who fund beyond the jurisdiction of the CC Chapter), Teams, Network Members, and Institutional Members must notify CC HQ in advance of their project and their intended funder list, and receive approval from CC HQ to appeal for funds using their CC affiliation. Solicitations may not identify CC HQ as a project supporter, partner, or participant without express permission from CC HQ. CC HQ may provide advice and support, including grant or proposal review, and strategic advice. CC HQ reserves the right to lead or co-ordinate the approach with the funder
 
 * CC HQ may, at any time, cancel or withdraw support for a project if it contravenes its policies, endangers its tax statutes, violates agreements with CC funders, or otherwise is considered harmful or damaging to CC
 
-* Teams, Network Members, and Network Partners may not establish independent legal organizations using "Creative Commons" or “CC” in its name, or with organizing documents that suggest any affiliation, support, partnership or other relationship with CC that might reasonably be interpreted as being legally-related to CC
+* Teams, Network Members, and Institutional Members may not establish independent legal organizations using "Creative Commons" or “CC” in its name, or with organizing documents that suggest any affiliation, support, partnership or other relationship with CC that might reasonably be interpreted as being legally-related to CC
 
-* Teams, Network Members, and Network Partners may not solicit general individual (often known as "small dollar") donations for their Chapters using the CC country name (e.g., Donate to CC El Salvador) without CC HQ permission.
+* Teams, Individual Members, and Institutional Members may not solicit general individual (often known as "small dollar") donations for their Chapters using the CC country name (e.g., Donate to CC El Salvador) without CC HQ permission.
 
 CC HQ and network teams may also collaborate directly to raise funds for a specific project (e.g., a grant to CC HQ and sub-grants to a network team for a specific initiative). Those allocations are governed by the participating network teams, not by the CCGN governance structure.
 
 # Glossary / List of Entities
 
-* **Creative Commons Global Network**: The core structure for the global Creative Commons movement that is composed of formal Network Members and Network Partners
+* **Creative Commons Global Network**: The core structure for the global Creative Commons movement that is composed of formal Network Members and Institutional Members
 
-* **Creative Commons movement**: A broader community that includes not only formal Members and Partners of CCGN but also individual and organization contributors
+* **Creative Commons movement**: A broader community that includes not only formal Members and Institutional Members of CCGN but also individual and organization contributors
 
 * **Network Member**: An individual who has been approved as a formal member of the CCGN. Needs to have a demonstrated commitment to the objectives of the CCGN and must have signed the Global Network Charter
 
@@ -426,7 +426,7 @@ CC HQ and network teams may also collaborate directly to raise funds for a speci
 
 * **Contributor**: An individual or an organization who actively participates in the CC movement, but is not a formal member of the CCGN. Contributors can, in particular, participate in Platforms
 
-* **CC Chapter**: A group consisting of all Network Members and Partners based in a particular country. CC Chapter members may also work internationally with other teams
+* **CC Chapter**: A group consisting of all Individual and Institutional Members based in a particular country. CC Chapter members may also work internationally with other teams
 
 * **Global Network Council**: Consists of 1 representative from each CC Chapter, plus 3 representatives from CC HQ, including CC’s CEO, who is ex-officio member. Convenes once a year
 
