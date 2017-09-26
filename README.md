@@ -33,7 +33,7 @@ More information about the [What's Next on the new Strategy](https://creativecom
 
 There is a group of volunteers we called Advisory Group working together for guiadance and advise during the Transition period. This group is composed by Bilal Randeree (CC Qatar), Delia Browne (AU), Felix Nartey (Ghana), Mariana Valente (BR), Meredith Jacobs (US), Nic Suzor (AU), Paul Keller (NL), Scann (AR), Tomoaki Watanabe (JP). Thanks to all of them as well.
 
-* **Last meeting**: Sept 19th.
+* **Last meeting**: Sept 26th.
 * **Next meeting**: Next Tuesday, 9 AM Chile
 * [Meeting notes](/docs/advisory_group_meeting_notes.md)
 
@@ -54,26 +54,13 @@ Learn more about our current CC Network Platforms and how you can join the conve
 
 ## Documents
 
-* [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated June, 2017)
+* [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated September, 2017)
 * [Claudio's slides at the Summit](/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
 * [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
 
-## Timelines
+## Timeline (from now until CC Summit and first Global Network Council Meeting)
 
-1. Chapters
-    * National members
-    * October 2017
-		* Memberships first application process: July-August 2017
-		* First Chapter meeting: No later than January, 2018.
-
-2. Platforms 
-    * What it is and what it isn't
-    * Actual platforms
-    * Transition: Stage 0 / Stage 1 / Stage 2
-		* Set priorities and background work: June/July 2017.
-		* Develop the plan of work: 2017 / April/May 2018 (Global Summit)
-
-3. Governance
-	* Open call to constitute an Advisory Group: June 2017.
-	* Memberships first application process: July-August 2017
-	* First Global Network Council meeting: April/May 2018 (Global Summit)
+* Opening of new memberships for Members and institutions -- 1st or 2nd week of October
+* First Chapter meetings (every member is automatically part of the chapter in the country where they live) -- 3rd week of November until last week of January, 2018
+* Chapters select their Global Network Council representative (at first meeting)
+* First Global Network Council meeting -- April 13, 2018 (Toronto and virtual)
