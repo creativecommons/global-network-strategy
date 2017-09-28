@@ -1,3 +1,5 @@
+# The Advisory Group
+
 The group of volunteers we called Advisory Group have been working together for guidance and advise during the Transition period. 
 
 This group is composed by Bilal Randeree (CC Qatar), Delia Browne (AU), Felix Nartey (Ghana), Mariana Valente (BR), Meredith Jacobs (US), Nic Suzor (AU), Paul Keller (NL), Scann (AR), Tomoaki Watanabe (JP). 
