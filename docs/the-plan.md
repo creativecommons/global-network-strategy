@@ -4,7 +4,7 @@
 
 - [The New Strategy](#the-new-strategy)
 - [The transition](#the-transition)
-	- [Why a _Transition_?](#why-a-transition?)
+	- [Why a _Transition_?](#why-a-transition)
 	- [Chapters](#chapters)
 	- [Platforms](#platforms)
 	- [Governance](#governance)
