@@ -2,65 +2,15 @@
 
 This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz).
 
-Do you want to edit? Is there a typo around? No problem:
+> Do you want to edit? Is there a typo around? [No problem](https://help.github.com/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
 
-* [Check here](https://help.github.com/articles/editing-files-in-another-user-s-repository/) for instructions regarding how to submit a change. 
-* [Submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
+## What will you find here
 
-## Content
-
-* [The CC Network Transition](#the-transition)
-* [The Advisory Group for the transition](#the-advisory-group-for-the-transition)
-* [CC Network Platforms](#cc-network-platforms)
-* [Documents](#documents)
-* [Timelines](#timelines)
-
-## The Transition
-
-For the first time, the CC movement has completed a comprehensive and collaborative effort to renew and grow its network, finalized at the recent Global Summit in Toronto. It’s important to acknowledge the hard work of all the people involved from the beginning, which included research (the Faces of the Commons is a 300 page multi region report with recommendations and insights), an open consultation with the broad CC community including Affiliates, partners, funders, and the CC Board, and 22 online and in-person meetings and more than the eighty percent of the active members of the network involved. This bottom-up process included discussions, proposals and specific edits and changes, reflecting the dynamic global community we have built together around Creative Commons during all this years. We all should be proud of all this process.
-
-[This new Strategy](GlobalNetworkStrategy-Final.md) has a lot of benefits:
-
-* **Global collaboration**. Connected with the work of the Platforms, communities will work together to set priorities, goals, objectives and strategies.
-* **Resilience**. The previous model for Affiliate involvement was focused on institutional relationships. Today, we are focusing on individuals and supporting organizations instead. We are providing a path to create a network of trust and real collaboration for the future.
-* **Growth and inclusion**. The new strategy is meant to include new and diverse global voices in the conversation and to provide more capacity and agency for teams working locally. We are creating a strategy focused on supporting and activating people.
-Shared decision-making, goal-setting, structure for collaboration. The new strategy creates new governance bodies to provide space for the community to identify priorities for the global work. This is a first for CC: the network takes care of the network.
-* **Resource allocation**. The strategy creates two funds specifically focused on the network to support community activities, actual project work and identified movement priorities.
-
-More information about the [What's Next on the new Strategy](https://creativecommons.org/2017/06/16/network-strategy-whats-next/), on the blogpost wrote by Alek T., Ryan M. and Claudio R. Also, [on the CC Website](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
-
-## The Advisory Group for the transition
-
-There is a group of volunteers we called Advisory Group working together for guiadance and advise during the Transition period. This group is composed by Bilal Randeree (CC Qatar), Delia Browne (AU), Felix Nartey (Ghana), Mariana Valente (BR), Meredith Jacobs (US), Nic Suzor (AU), Paul Keller (NL), Scann (AR), Tomoaki Watanabe (JP). Thanks to all of them as well.
-
-* **Last meeting**: Sept 26th.
-* **Next meeting**: Next Tuesday, 9 AM Chile
-* [Meeting notes](/docs/advisory_group_meeting_notes.md)
-
-## CC Network Platforms
-
-Platforms are how we organize areas of work for the Creative Commons community, where individuals and institutions organize and coordinate themselves across the CC Global Network.
-
-Platforms are the way we create and communicate strategic collaboration to have worldwide impact – it is the way our network [works collaboratively](/docs/Platforms-Guidelines-for-decision-making.md). The platforms are open to anyone willing to contribute and develop usable, vibrant and collaborative global commons.
-
-Learn more about our current CC Network Platforms and how you can join the conversation on [CC Network Platforms](https://github.com/creativecommons/network-platforms/)
-
-| Network Platforms        | 
-| ------------- |
-| [Copyright Reform](https://github.com/creativecommons/network-platforms/blob/master/copyright-reform.md)      |
-| [Open Education](https://github.com/creativecommons/network-platforms/blob/master/Open-Education.md)      |
-| [GLAM (Galleries, Libraries, Archives & Museums)](https://github.com/creativecommons/network-platforms/blob/master/GLAM.md) |
-| [Community Development](https://github.com/creativecommons/network-platforms/blob/master/community-dev.md) |
-
-## Documents
-
-* [Creative Commons Network Strategy](GlobalNetworkStrategy-Final.md) (Updated September, 2017)
-* [Claudio's slides at the Summit](/docs/27.04.2017-CCSummit-Transition-Strategy-Slides-Claudio.pdf)
-* [Platform guidelines for decision making](/docs/Platforms-Guidelines-for-decision-making.md)
-
-## Timeline (from now until CC Summit and first Global Network Council Meeting)
-
-* Opening of new memberships for Members and institutions -- 1st or 2nd week of October
-* First Chapter meetings (every member is automatically part of the chapter in the country where they live) -- 3rd week of November until last week of January, 2018
-* Chapters select their Global Network Council representative (at first meeting)
-* First Global Network Council meeting -- April 13, 2018 (Toronto and virtual)
+| What you will find here |
+|:--|
+| [The CC Network Strategy](GlobalNetworkStrategy-Final.md) |
+| [The Plan. What do we mean by 'Transition'](/docs/the-plan.md) 
+| [The *new* Global Network](/docs/the-new-global-network.md) | 
+| [The Advisory Group for the Transition](/docs/the-advisory-group.md) | 
+| [The Platforms](https://github.com/creativecommons/network-platforms) | 
+| [The Timeline](/docs/the-timeline.md) | 
