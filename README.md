@@ -12,5 +12,5 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
 | [The Advisory Group for the Transition](/docs/the-advisory-group.md) | 
-| [The Platforms](https://github.com/creativecommons/network-platforms) | 
+| [The Network Platforms](https://github.com/creativecommons/network-platforms) | 
 | [The Timeline](/docs/the-timeline.md) | 
