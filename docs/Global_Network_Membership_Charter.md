@@ -1,6 +1,6 @@
 # Creative Commons Global Network Membership Charter
 
-(28.09.2017 [Public Version](https://github.com/creativecommons/global-network-strategy/new/master#change-log)) 
+(28.09.2017 [Public Version](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#this-charter)) 
 
 * * *
 
