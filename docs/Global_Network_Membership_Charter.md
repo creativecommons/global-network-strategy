@@ -18,7 +18,7 @@ Becoming a Member is a position of trust. It means we trust one another to be a 
 
 All Members are expected to:
 
-* Abide by the CCGN [Code of Conduct](https://github.com/creativecommons/global-network-strategy/new/master#codes-of-conduct) 
+* Abide by the CCGN [Code of Conduct](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#codes-of-conduct) 
 
 * Abide by policies that Creative Commons establishes and updates from time to time in connection with use of its trademarks, websites and web domains, and similar, which CC pledges to advise members, partners and Chapters of in a timely fashion and to publish in advance as described below
 
