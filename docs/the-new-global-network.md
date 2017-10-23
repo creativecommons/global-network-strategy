@@ -11,3 +11,7 @@ To be a member [is required to agree with the Charter](Global_Network_Membership
 | Go visit [the CC Network webpage](https://network.creativecommons.org) | 
 | Fill in the form and include some information about how you are an active contributor to the Creative Commons movement |
 | Obtain 2 actual members supporting your application | 
+
+---
+
+After submitting your application, it will be reviewed by the Interim Membership Council following [the criteria stablished here](Guide_for_approve_new_members.md).
