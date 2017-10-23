@@ -1,5 +1,6 @@
 
 # Interim Membership Council: How to approve new members of the Network
+## Guide for Interim Membership Council members to approve applications
 
 * As part of the Interim Membership Council, you will be asked to approve the applications of vouched Members on the [Network webpage](network.creativecommons.org). This applies both to Institutional Members and Individual Members.
 
