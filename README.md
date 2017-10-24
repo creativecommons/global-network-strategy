@@ -12,7 +12,7 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
 | [The Advisory Group for the Transition](/docs/the-advisory-group.md) | 
-| [Chapters Guidelines](/docs/Chapters-guidelines.md) | 
+| [Chapters Guidelines](/docs/chapters-guidelines.md) | 
 | [The Network Platforms](https://github.com/creativecommons/network-platforms) | 
 | [The Interim Membership Council](/docs/the-interim-membership-council.md) | 
 | [The Timeline](/docs/the-timeline.md) | 
