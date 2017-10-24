@@ -1,7 +1,7 @@
 # Creative Commons 
 # Global Network Strategy
 
-June, 2017. (*last reviewed 26.09.2017*)
+June, 2017. (*[last reviewed](https://github.com/creativecommons/global-network-strategy/commits/master/GlobalNetworkStrategy-Final.md) 26.09.2017*)
 
 -- Here you will find the [consolidated PDF version](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) for external reference.
 
