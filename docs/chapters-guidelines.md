@@ -1,7 +1,6 @@
 
 # Chapter Guidelines
 
-<<<<<<< HEAD:docs/Chapters-guidelines.md
 These guidelines are designed to help local Chapters organize themselves; they are not mandatory rules; provided however, that Chapters may not establish policies that are in conflict with the Charter, and Chapters must comply with [CC policies](https://creativecommons.org/policies), as described below. Chapters can, and often will, establish additional rules, guidelines and principles beyond those suggested here. This document also aims to provide clarification about the relationship between Chapters, the Creative Commons Global Network ("CCGN"), and individual CCGN Members and other contributors. 
 
 ## About the Chapters
@@ -52,6 +51,4 @@ Local chapters can establish their own communication mechanisms, but these **sho
 Being a Member, or other contributor means, in specific cases, to have a minimum amount of knowledge over intellectual property and Creative Commons licenses. In order to make sure that members are working from a knowledgeable base, Chapters can request new members to join in and follow a specific training course.
 
 Members and other contributors to a Chapter may be expected to follow these training courses, and must agree to understand and accept the values, policies, and codes of conduct in order to establish common ground and an agreed-upon set of basic mutual expectations.
-=======
-test
->>>>>>> 35ad18702c763ecef11a937f5b8f7240a874ca72:docs/chapters-guidelines.md
+
