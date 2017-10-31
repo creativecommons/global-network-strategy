@@ -32,3 +32,5 @@
 - The person has demonstrated that they have capabilities or expertise that are relevant to the work of the Global Network</td>
   </tr>
 </table>
+
+Important notice: Please be objective and factual when you include comments and reasons why an individual or an institutional applicant should or should not be included. This means, among other things, never including inflammatory and/or speculative remarks about the applicant. State comments factually based on your own personal knowledge only. And remember, our goal is to be as inclusive as possible, but to insist also that all accepted individuals and institutions abide by the Global Network Charter including the Code of Conduct and specified policies. 
