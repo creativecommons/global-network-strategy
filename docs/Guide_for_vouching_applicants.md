@@ -3,15 +3,10 @@
 ## Guidelines for acting on vouch requests by applicants for membership in the Network
 
 * To become a member of the CC Global Network (Individual or Institutional), applicants must [agree to abide with the Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md), provide some track record of serving as an active contributor to the CC movement, **and have been vouched for by two current network members**.
-
 * You, as a member, may *vouch* -support  the application of- new members seeking to become part of the Network. 
-
 * Vouching for an applicant is not an automatic process, it’s an act of trust and affirmative statement about the individual or institution’s ability to contribute positively to the CC Global Network. 
-
 * You must never use impermissible criteria for deciding whether to vouch or not vouch for an individual or institution. In particular, you must abide by the **Evaluation Criteria Applicable to Vouchers and the Interim Membership Council**, set forth below. 
-
 * You will be asked to affirmatively state that you are acting consistent with those criteria when you vouch for an individual or institution.
-
 * When someone asks you to vouch for their membership, please consider the following:
 
 <table>
@@ -48,10 +43,15 @@ Creative Commons is an organization committed to the freedom and equality of ind
 Pursuant to the terms of the [Master Privacy Policy](https://creativecommons.org/privacy/) and Express Consent, the following personal information may be collected about you as a voucher or as a member of the Interim Membership Council, including but not limited to:
 
 • Name;
+
 • Email address;
+
 • Information on how you know the candidate;
+
 • Country you have identified with or are located;
+
 • URLs and links to social media; and
+
 • Any other information that you elect to provide.
 
 All personal information that was submitted and collected for the purpose of vouching or declining to vouch for an applicant will be deleted after 21 days from the time a decision is made by the Interim Membership Council about the applicant (whether positive or negative), with the exception of actual vote of the voucher (only Boolean data is preserved, but none of the personal statements the voucher may have provided are).
