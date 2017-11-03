@@ -1,10 +1,18 @@
 # **How to vouch** applicants for membership in the Network
 
-* To be a member of the CC Global Network (Individual or Institutional), applicants must [agree with the Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md), provide some track record of serving as an active contributor to the CC movement, **and have been vouched by two current network members**.
+## Guidelines for acting on vouch requests by applicants for membership in the Network
+
+* To become a member of the CC Global Network (Individual or Institutional), applicants must [agree to abide with the Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md), provide some track record of serving as an active contributor to the CC movement, **and have been vouched for by two current network members**.
 
 * You, as a member, may *vouch* -support  the application of- new members seeking to become part of the Network. 
 
-* Vouching an applicant is not an automatic process, it’s an act of trust. When someone asks you to vouch for her to become a member, please consider the following:
+* Vouching for an applicant is not an automatic process, it’s an act of trust and affirmative statement about the individual or institution’s ability to contribute positively to the CC Global Network. 
+
+* You must never use impermissible criteria for deciding whether to vouch or not vouch for an individual or institution. In particular, you must abide by the **Evaluation Criteria Applicable to Vouchers and the Interim Membership Council**, set forth below. 
+
+* You will be asked to affirmatively state that you are acting consistent with those criteria when you vouch for an individual or institution.
+
+* When someone asks you to vouch for their membership, please consider the following:
 
 <table>
   <tr>
@@ -16,7 +24,7 @@
     <td>Are you willing to work with this person or institution without reservation? </td>
   </tr>
   <tr>
-    <td>That the person or organization applying is committed to the values and principles stated in the CC Charter and would be a productive, prosocial member of the Global Network. </td>
+    <td>That the person or organization applying is committed to the values and principles stated in the [CC Charter and would be a productive, prosocial member of the Global Network](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md). </td>
     <td>You are familiar with the person or organization and you reasonably believe she will comply with the values and principles of the Charter.</td>
   </tr>
   <tr>
@@ -33,4 +41,19 @@
   </tr>
 </table>
 
-**Important notice**: Please be objective and factual when you include comments and reasons why an individual or an institutional applicant should or should not be included. This means, among other things, never including inflammatory and/or speculative remarks about the applicant. State comments factually based on your own personal knowledge only. And remember, our goal is to be as inclusive as possible, but to insist also that all accepted individuals and institutions abide by the [Global Network Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md) including the Code of Conduct and specified policies. 
+### Evaluation Criteria Applicable to Vouchers and the Interim Membership Council
+
+Creative Commons is an organization committed to the freedom and equality of individuals, no matter their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, age, marital status, sexual orientation, citizenship, primary language, immigration status, or other protected category. Accordingly, **you may not** take any such factors, or any other factors prohibited by applicable law, in consideration when vouching for or refusing to vouch for an applicant. Similarly, Creative Commons encourages persons to speak up if they in good faith report violations of law. You may not take an applicant's whistleblower activity into consideration in vouching for or declining to vouch for an applicant.
+
+Pursuant to the terms of the [Master Privacy Policy](https://creativecommons.org/privacy/) and Express Consent, the following personal information may be collected about you as a voucher or as a member of the Interim Membership Council, including but not limited to:
+
+• Name;
+• Email address;
+• Information on how you know the candidate;
+• Country you have identified with or are located;
+• URLs and links to social media; and
+• Any other information that you elect to provide.
+
+All personal information that was submitted and collected for the purpose of vouching or declining to vouch for an applicant will be deleted after 21 days from the time a decision is made by the Interim Membership Council about the applicant (whether positive or negative), with the exception of actual vote of the voucher (only Boolean data is preserved, but none of the personal statements the voucher may have provided are).
+
+If you have any questions or concerns about this process, we are happy to help you by email at network-support@creativecommons.org. Or you can always check the [updated documentation in our Github page](https://github.com/creativecommons/global-network-strategy).
