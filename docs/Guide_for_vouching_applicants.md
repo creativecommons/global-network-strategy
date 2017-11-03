@@ -42,17 +42,12 @@ Creative Commons is an organization committed to the freedom and equality of ind
 
 Pursuant to the terms of the [Master Privacy Policy](https://creativecommons.org/privacy/) and Express Consent, the following personal information may be collected about you as a voucher or as a member of the Interim Membership Council, including but not limited to:
 
-• Name;
-
-• Email address;
-
-• Information on how you know the candidate;
-
-• Country you have identified with or are located;
-
-• URLs and links to social media; and
-
-• Any other information that you elect to provide.
+* Name.
+* Email address;
+* Information on how you know the candidate;
+* Country you have identified with or are located;
+* URLs and links to social media; and
+* Any other information that you elect to provide.
 
 All personal information that was submitted and collected for the purpose of vouching or declining to vouch for an applicant will be deleted after 21 days from the time a decision is made by the Interim Membership Council about the applicant (whether positive or negative), with the exception of actual vote of the voucher (only Boolean data is preserved, but none of the personal statements the voucher may have provided are).
 
