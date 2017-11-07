@@ -1,6 +1,10 @@
 # Creative Commons Global Network Membership Charter
 
-(28.09.2017 [Public Version](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#this-charter)) 
+* 28.09.2017 Public Version
+
+* See [Policy for version control](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#this-charter)
+
+* _Translations of this Charter and other network-related governance documents may be provided in other languages. In the event of doubt or conflict between any translation and the original English language version, the English language version shall control._
 
 * * *
 
