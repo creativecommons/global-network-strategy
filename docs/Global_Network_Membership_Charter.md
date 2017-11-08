@@ -1,12 +1,12 @@
 # Creative Commons Global Network Membership Charter
 
-* 28.09.2017 Public Version
+* 07.11.2017 Public Version: https://creativecommons.org/network/charter/
 
 * See [Policy for version control](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#this-charter)
 
 * _Translations of this Charter and other network-related governance documents may be provided in other languages. In the event of doubt or conflict between any translation and the original English language version, the English language version shall control._
 
-* * *
+--- 
 
 This document is the agreement you, an individual person (a "Member") or an institution (an “Institutional Member”), in the Creative Commons Global Network, have with all of the other Members and Institutional Members of the Creative Commons network and Creative Commons (“we” or the “CCGN”). As used in this Charter all references to “Member” or “Members” refers collectively to Members and Institutional Members, though their rights as defined in other CCGN documents differ. 
 
@@ -107,4 +107,5 @@ This Charter is first published on October 6th, 2017, concurrently with the anno
 ### Change log
 
 * First public version October 6th, 2017
+* Revised public version November 7th, 2017
 

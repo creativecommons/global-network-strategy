@@ -5,7 +5,7 @@ These guidelines are designed to help local Chapters organize themselves; they a
 
 ## About the Chapters
 
-A Chapter is constituted by all CCGN Members (Individual and Institutional Members) and other contributing people and organizations working in a particular country. Local chapters are entitled to organize themselves in the way in which they see fit, consistent [with the Global Network Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md) and [CC policies](https://creativecommons.org/policies). Contributors who are not CCGN Members may also participate in Chapters. 
+A Chapter is constituted by all CCGN Members (Individual and Institutional Members) and other contributing people and organizations working in a particular country. Local chapters are entitled to organize themselves in the way in which they see fit, consistent [with the Global Network Charter](https://creativecommons.org/network/charter/) and [CC policies](https://creativecommons.org/policies). Contributors who are not CCGN Members may also participate in Chapters. 
 
 Chapters must follow these guidelines:
 

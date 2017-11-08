@@ -2,7 +2,7 @@
 
 ## Guidelines for acting on vouch requests by applicants for membership in the Network
 
-* To become a member of the CC Global Network (Individual or Institutional), applicants must [agree to abide with the Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md), provide some track record of serving as an active contributor to the CC movement, **and have been vouched for by two current network members**.
+* To become a member of the CC Global Network (Individual or Institutional), applicants must [agree to abide with the Charter](https://creativecommons.org/network/charter/), provide some track record of serving as an active contributor to the CC movement, **and have been vouched for by two current network members**.
 * You, as a member, may *vouch* -support  the application of- new members seeking to become part of the Network. 
 * Vouching for an applicant is not an automatic process, it’s an act of trust and affirmative statement about the individual or institution’s ability to contribute positively to the CC Global Network. 
 * You must never use impermissible criteria for deciding whether to vouch or not vouch for an individual or institution. In particular, you must abide by the **Evaluation Criteria Applicable to Vouchers and the Membership Council (interim and permanent)**, set forth below. 
@@ -19,7 +19,7 @@
     <td>Are you willing to work with this person or institution without reservation? </td>
   </tr>
   <tr>
-    <td>That the person or organization applying is committed to the values and principles stated in the [CC Charter and would be a productive, prosocial member of the Global Network](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md). </td>
+    <td>That the person or organization applying is committed to the values and principles stated in the [CC Charter and would be a productive, prosocial member of the Global Network](https://creativecommons.org/network/charter/). </td>
     <td>You are familiar with the person or organization and you reasonably believe she will comply with the values and principles of the Charter.</td>
   </tr>
   <tr>

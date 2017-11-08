@@ -4,7 +4,7 @@ The Creative Commons Global Network is a movement that advocates, promotes and e
 
 We are committed to making it as inclusive as possible, and hope that everyone feels encouraged and excited about participating in the process by sharing opinions, suggestions and concerns about what we believe we can and should develop for our common future: the Creative Commons Global Network.
 
-To be a member [is required to agree with the Charter](Global_Network_Membership_Charter.md). The Charter is the document connecting the Members and contributors with the CC Network. 
+To be a member [is required to agree with the Charter](https://creativecommons.org/network/charter/). The Charter is the document connecting the Members and contributors with the CC Network. 
 
 | How to be a member of the network: |  
 |:--|
