@@ -36,6 +36,8 @@
   </tr>
 </table>
 
+Your decisions and actions in the course of vouching or refusing to vouch for an applicant should be based on the best interests of CC and the CCGN, and not based on personal relationships or benefits. Avoid situations where your personal activities and relationships conflict, or appear to conflict, with these interests, including situations where you may have or appear to have an indirect conflict through. We expect at a minimum that you avoid vouching or declining to vouch for an individual with which you have a significant personal relationship or to whom you are related, and in the case of institutional applications vouching or declining to vouch for an entity with which you have an employment or contractual relationship. These are minimum guidelines. We trust you to use your best judgment, but if you have questions feel free to contact network-support@creativecommons.org.
+
 ### Evaluation Criteria Applicable to Vouchers and the Membership Council (interim and permanent)
 
 Creative Commons is an organization committed to the freedom and equality of individuals, no matter their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, age, marital status, sexual orientation, citizenship, primary language, immigration status, or other protected category. Accordingly, **you may not** take any such factors, or any other factors prohibited by applicable law, in consideration when vouching for or refusing to vouch for an applicant. Similarly, Creative Commons encourages persons to speak up if they in good faith report violations of law. You may not take an applicant's whistleblower activity into consideration in vouching for or declining to vouch for an applicant.
