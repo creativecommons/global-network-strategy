@@ -20,17 +20,15 @@ Although it is not required to participate, to form a Chapter at least some of y
 
 * Remember the first Chapter meeting is neither a "members" meeting or an affiliate meeting, but a chapter meeting. This means that if you are coordinating the organization of the first meeting, you should invite and include everyone interested, conduct outreach with sufficient notice to ensure everyone interested is aware of the meeting, and conduct the meeting as openly and visibly as you can. 
 
-* **Notify the Network ****Manager of your intention to coordinate the organization of the first meeting**. Send us an email to [network-support@creativecommons.org](mailto:network-support@creativecommons.org). This allows us to assist you, and inform you of others who have expressed interest in organizing the first chapter meeting or participating. Use social media to make this meeting as public and welcoming new people to join the conversation. If you need any help with outreach strategies, how to structure or arrange logistics for the meeting or help communicating the fact you are hosting the meeting, let the Network Manager know. 
+* **Notify the Network Manager of your intention to coordinate the organization of the first meeting**. Send us an email to [network-support@creativecommons.org](mailto:network-support@creativecommons.org). This allows us to assist you, and inform you of others who have expressed interest in organizing the first chapter meeting or participating. Use social media to make this meeting as public and welcoming new people to join the conversation. If you need any help with outreach strategies, how to structure or arrange logistics for the meeting or help communicating the fact you are hosting the meeting, let the Network Manager know. 
 
 * **It is not required that this meeting be in-person**. It will always be a challenge to connect with all volunteers within a country; however, we strongly encourage you to provide ways for those who cannot be present in-person to participate remotely, absent some logistical difficulties. Again, notify the Network Manager if you need assistance.
 
 * **Be familiar with the documentation**. Be sure you are familiar with the [CCGN Strategy](https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md), the [Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md) (including the Code of Conduct and the policies contained and referenced therein) and, especially, the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md). Encourage everyone participating in the first meeting to have reviewed all of those documents in advance. 
 
-* Communicate to those participating in the initial meeting that:
-
-* Only Individual Members of the CCGN may serve as a Representative or Chapter Lead, though all Country Participants (members and non-members alike) may participate in their selection. 
-
-* Members and non members are only allowed to participate in a single chapter for purposes of selecting a Representative and Chapter.
+* **Communicate** to those participating in the initial meeting that:
+	* Only Individual Members of the CCGN may serve as a Representative or Chapter Lead, though all Country Participants (members and non-members alike) may participate in their selection. 
+	* Members and non members are only allowed to participate in a single chapter for purposes of selecting a Representative and Chapter.
 
 * See the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md) for more information.
 
@@ -49,7 +47,7 @@ Although it is not required to participate, to form a Chapter at least some of y
 * In advance of the organizing meeting, for the upcoming meeting -or other ways to participate such as mailing lists, Slack channels or others- it seems a good idea start discussion concrete projects to work together at the local level.
 
 ```
-*TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING*
+TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING
 
 * Review agenda
 * Introductions, roll call (identify and document who is present, what their interests are, etc.)
