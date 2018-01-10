@@ -8,7 +8,7 @@ Network ("CCGN"), and CCGN Individual Members and Institutional Members, and oth
 
 ## About the Chapters
 
-A Chapter is constituted by all CCGN Members (Individual Members and Institutional Members (collectively “Network Members”)), and other contributing people and organizations working in or associated with a particular country but who are not Network Members (“Country Contributors”). Network Members and Country Contributors are collectively referred to as the “Country Participants”). Chapters may organize themselves in the way in which they see fit, consistent [with the Global Network Charter](https://creativecommons.org/network/charter/) and [CC policies](https://creativecommons.org/policies).
+A Chapter is constituted by all CCGN Members (Individual Members and Institutional Members (collectively “Network Members”)), and other contributing people and organizations working in or associated with a particular country but who are not Network Members (“Country Contributors”). Network Members and Country Contributors are collectively referred to as the “Country Participants”). Chapters may organize themselves in the way in which they see fit, consistent with [the Global Network Charter](https://creativecommons.org/network/charter/) and [CC policies](https://creativecommons.org/policies).
 
 Chapters must follow these standards:
 
@@ -16,15 +16,15 @@ Chapters must follow these standards:
 
 * **(2) Country Participants of each Chapter will elect a Global Network Council representative**. The Country Participants of each CC Chapter will elect one representative to serve on the Global Network Council (the “GNC”). Representatives are elected for a fixed term, to be established by the GNC. Only Network Members are eligible to serve as GNC representatives, though Country Contributors associated with a Chapter may vote in the election for the representative.  
 
-* **(3) Country Participants of each Chapters will choose a Chapter Lead or Coordinator**. Each CC Chapter will select an individual to be responsible for coordinating and communicating on behalf of CC Chapter activities. This person will serve as the main point of contact for CC when forwarding or responding to inquiries regarding activities in that country. This is analogous to the "public lead" in the previous Creative Commons Affiliates model, but each Chapter may select their own appropriate title for the position (however so named, the Country Lead). This person may also be the Representative to the GNC but is not required to be. Only Network Members may be selected as the Chapter Lead, though Country Contributors may participate in the selection process.
+* **(3) Country Participants of each Chapter will choose a Chapter Lead or Coordinator**. Each CC Chapter will select an individual to be responsible for coordinating and communicating on behalf of CC Chapter activities. This person will serve as the main point of contact for CC when forwarding or responding to inquiries regarding activities in that country. This is analogous to the "public lead" in the previous Creative Commons Affiliates model, but each Chapter may select their own appropriate title for the position (however so named, the Country Lead). This person may also be the Representative to the GNC but is not required to be. Only Network Members may be selected as the Chapter Lead, though Country Contributors may participate in the selection process.
 
 * **(4) Chapters will work by consensus**. This does not mean that all Country Participants must make every decision together, or that structures of authority and decision-making cannot be established using a consensus model; what it does require is that teams work openly, and voices must be allowed to be heard and considered before making a final decision. In situations of conflict, Chapters can refer the matter to the GNC’s Dispute Resolution Committee.
 
 **NOTE**: Network Members and Country Contributors may only participate in the decision-making processes of a single Chapter, including in the selection of a  Representative and Country Lead. 
 
-## Responsibilities of local Chapters to the Global Network
+## Responsibilities of Chapters to the Global Network
 
-The main responsibilities of the CC Chapter are to 
+The main responsibilities of a Chapter are to 
 
 * Run activities and provide support to local projects.
 * Serve as a contact and information point for questions about CC.
