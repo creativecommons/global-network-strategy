@@ -32,7 +32,7 @@ Before starting the application process, please check the list below and make su
 
 4. Identify all prior agreements your institution has had with Creative Commons in the past, including an MOU or affiliate agreement, and trademark and domain name agreements.
 
-5. Agree to sign a formal agreement with CC 
+5. Agree to sign a formal agreement with CC, if deemed necessary. 
 
 If you are prepared to supply this information and agree to the processes above, then you are now ready to move on to the next step - submitting an application through the [Institutional Membership Sign-up](https://network.creativecommons.org/sign-up/institution/) page. 
 
