@@ -19,3 +19,4 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [The Network Platforms](https://github.com/creativecommons/network-platforms) | 
 | [The Interim Membership Council](/docs/the-interim-membership-council.md) | 
 | [The Timeline](/docs/the-timeline.md) | 
+| [Frequently Asked Questions](/docs/FAQ.md) | 
