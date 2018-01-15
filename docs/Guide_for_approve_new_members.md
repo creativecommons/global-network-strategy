@@ -15,11 +15,11 @@ By vouching for an applicant, you consent to Creative Commons sending your perso
 
 Your decisions and actions in the course of vouching or refusing to vouch for an applicant should be based on the best interests of CC and the CCGN, and not based on personal relationships or benefits. Avoid situations where your personal activities and relationships conflict, or appear to conflict, with these interests, including situations where you may have or appear to have an indirect conflict through. We expect at a minimum that you avoid vouching or declining to vouch for an individual with which you have a significant personal relationship or to whom you are related, and in the case of institutional applications vouching or declining to vouch for an entity with which you have an employment or contractual relationship. These are minimum guidelines. We trust you to use your best judgment, but if you have questions feel free to contact network-support@creativecommons.org.
 
-### How to approve new members
+## How to approve new members
 
 Once an application has been *formally vouched* (the Members mentioned as vouchers confirm their vouch online), members of the Interim Membership Council should approve or reject the application based on this guide. When the application receives 5 votes from the Interim Membership Council, the application is considered approved.
 
-#### Check the list of applications on approving stage
+### Check the list of applications on approving stage
 Go to the ["Global Network Application Approval" page](https://network.creativecommons.org/wp-admin/users.php?page=global-network-application-approval) in the WordPress Admin section of the site. There, you will see the list of current applications that are at the approving stage.
 
 Each application shows the type of application, its state, the number of Vouches and Votes for it, and the application date.
@@ -28,7 +28,7 @@ To Vote on the Application you must follow that link heading to the Application 
 
 ![Membership Application screen](/docs/image_1.png)
 
-#### Review Application Details and vote
+### Review Application Details and vote
 
 ![Application details screen](/docs/image_2.png)
 
@@ -40,7 +40,7 @@ Make sure to follow the **Evaluation Criteria Applicable to Vouchers and the Mem
 
 Once you have voted you cannot alter your vote, so double-check that you have chosen the correct option before submitting the form.
 
-### Evaluation Criteria Applicable to Vouchers and the Membership Council
+## Evaluation Criteria Applicable to Vouchers and the Membership Council
 
 Creative Commons is an organization committed to the freedom and equality of individuals, no matter their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, age, marital status, sexual orientation, citizenship, primary language, immigration status, or other protected category. Accordingly, **you may not** take any such factors, or any other factors prohibited by applicable law, in consideration when vouching for or refusing to vouch for an applicant. Similarly, Creative Commons encourages persons to speak up if they in good faith report violations of law. You may not take an applicant's whistleblower activity into consideration in vouching for or declining to vouch for an applicant.
 
