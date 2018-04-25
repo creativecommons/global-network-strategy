@@ -10,6 +10,15 @@ Chapters serve as the central coordinator of the work of the individuals and ins
 
     * If an affiliate exists but you are not working with it already as an employee, volunteer or other, contact the Network Manager (simeon@creativecommons.org) . 
 
+## Table of Contents
+=================
+
+  * [Step 1: Determine Status of CC Activities in Your Country; Join the CCGN](#step-1-determine-status-of-cc-activities-in-your-country-join-the-ccgn)
+  * [Step 2: Organize the first Chapter Meeting](#step-2-organize-the-first-chapter-meeting)
+  * [Step 3: Convene the First Meeting](#step-3-convene-the-first-meeting)
+  * [Step 4: After the Meeting](#step-4-after-the-meeting)
+
+
 ## Step 1: Determine Status of CC Activities in Your Country; Join the CCGN
 
 Check the [Network website](network.creativecommons.org) to determine whether a chapter or affiliate(s) already exists in your country. If not, then determine whether there’s already a group of people working or organizing a chapter in the country where you wish to participate or are based. You may find more information into the [Chapter Guidelines document](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md). And if you need any guidance or help, just let the Network Manager know (simeon@creativecommons.org). 
