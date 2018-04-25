@@ -11,7 +11,6 @@ Chapters serve as the central coordinator of the work of the individuals and ins
     * If an affiliate exists but you are not working with it already as an employee, volunteer or other, contact the Network Manager (simeon@creativecommons.org) . 
 
 ## Table of Contents
-=================
 
   * [Step 1: Determine Status of CC Activities in Your Country; Join the CCGN](#step-1-determine-status-of-cc-activities-in-your-country-join-the-ccgn)
   * [Step 2: Organize the first Chapter Meeting](#step-2-organize-the-first-chapter-meeting)
@@ -60,11 +59,11 @@ TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING
 
 * Review agenda
 * Introductions, roll call (identify and document who is present, what their interests are, etc.)
-* Designate a note taker (notes should be sent to the Network Manager for publication on the CCGN webite [link] promptly following the meeting)
+* Designate a note taker (notes should be sent to the Network Manager for publication [on the CCGN website](https://network.creativecommons.org) promptly following the meeting)
 * Review highlights of the Strategy, Charter, Chapter Guidelines, and Codes of Conduct
 * Election of Representative (explain responsibilities)
 * Election of Chapter Lead (explain responsibilities)
-* Discuss work of the chapter
+* Discuss work of the Chapter
 * Chapter processes and coordination
 * How to communicate (Slack? email list? etc.)
 * Website coordination (who is in charge, etc.)
@@ -76,7 +75,7 @@ TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING
 
 * Send the minutes of the meeting to the Network Manager using the template. These will be publicly posted. [You can use this template](https://docs.google.com/document/d/1Iu-6wzAbeWmqTr7CRY59zHbLHTsbvKVx_dy2A-OcWaU/edit?usp=sharing) we have prepared to make it simple. If you are not comfortable writing this in English, you can write it in your own language. Just let us know that situation first. 
 
-* Identify the Chapter Lead and Representative
+* Identify the Chapter Lead and Representative.
 
 * Tell us about your meeting. The information about the meeting is important not just to know who will be the point of contact of the chapter from now on, but also to know more about your first meeting, your plans and your people! The Network Manager will be in contact with you from the early stages of the process to facilitate the process.
 
