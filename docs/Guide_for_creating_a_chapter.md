@@ -54,8 +54,9 @@ Although it is not required to participate, to form a Chapter at least some of y
 
 * In advance of the organizing meeting, for the upcoming meeting -or other ways to participate such as mailing lists, Slack channels or others- it seems a good idea start discussion concrete projects to work together at the local level.
 
-```
-TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING
+´´´markdown
+
+**TEMPLATE AGENDA FOR THE FIRST CHAPTER MEETING**
 
 * Review agenda
 * Introductions, roll call (identify and document who is present, what their interests are, etc.)
