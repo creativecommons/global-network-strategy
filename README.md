@@ -19,6 +19,7 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
 | [Chapter Guidelines](/docs/chapters-guidelines.md) |
 | [How to create a new Chapter?](/docs/Guide_for_creating_a_chapter.md) |
+| [Role description of GNC Representative and CC Chapter Lead](/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md) |
 | [Guidelines for vouching applicants](/docs/Guide_for_vouching_applicants.md) |
 | [Guidelines for approving new members](/docs/Guide_for_approve_new_members.md) |
 | [Guidelines for becoming an Institutional Member](/docs/Guide_to_becoming_an_institutional_member.md) |
