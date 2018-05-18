@@ -20,7 +20,7 @@ All website content on Chapter Websites should be made available under a CC lice
 
 ### Website Administration
 
-As part of the main Creative Commons website, the subdomains are managed by Creative Commons and therefore subject to all of the policies of the CC site, including the DMCA policy, terms of service, and privacy policy. Every participant in a Chapter agrees to comply with all such policies and will take any actions requested by CC in order to ensure compliance. Chapters that operate TLDs in accordance with the above are responsible for ensuring that they establish and maintain terms of service, a privacy policy, and any other policies necessary to comply with applicable laws, including copyright and data privacy laws. 
+As part of the main Creative Commons website, the subdomains are managed by Creative Commons and therefore subject to all of the policies of the CC site, including the [DMCA policy](https://creativecommons.org/dmca/), [terms of service](https://creativecommons.org/terms), and [privacy policy](https://creativecommons.org/privacy). Every participant in a Chapter agrees to comply with all such policies and will take any actions requested by CC in order to ensure compliance. Unlike subdomains, Chapters that choose to operate TLDs in accordance with the above are alone responsible for ensuring that they establish and maintain terms of service, a privacy policy, and any other policies necessary to comply with applicable laws, including copyright and data privacy laws. 
 
 ## Social Media Accounts
  
