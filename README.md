@@ -17,7 +17,7 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [The CC Network Strategy](GlobalNetworkStrategy-Final.md) |
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
-| [Chapter Guidelines](/docs/chapters-guidelines.md) |
+| [Chapter Guidelines](/docs/chapters-standards.md) |
 | [How to create a new Chapter?](/docs/Guide_for_creating_a_chapter.md) |
 | [Role description of GNC Representative and CC Chapter Lead](/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md) |
 | [Guidelines for vouching applicants](/docs/Guide_for_vouching_applicants.md) |
