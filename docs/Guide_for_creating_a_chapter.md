@@ -52,11 +52,11 @@ To form a Chapter at least one or more of you must be a member of the Creative C
 
 ## Step 3: Convene the First Meeting
 
-* **Purpose**. The purpose of the first meeting is to bring together different voices, faces and ideas regarding how to work together as a chapter. You are free of organize the meeting as you will provided the meeting adhere to [some minimum criteria](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md). 
+* **Purpose**. The purpose of the first meeting is to bring together different voices, faces and ideas regarding how to work together as a chapter. You are free of organize the meeting as you will provided the meeting adhere to [some minimum criteria](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md). 
 
 * At a minimum, two things need to happen during the first meeting:
 
-    1. Chapter will elect a member as a **Representative** [link to CCGN Rep and Public Lead Role descriptions] at the Global Network Council. Only CCGN Individual Members can elect the Representative, and only CCGN Individual Members can be elected.
+    1. Chapter will elect a member as a **Representative** [https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md] at the Global Network Council. Only CCGN Individual Members can elect the Representative, and only CCGN Individual Members can be elected.
 
     2. Chapter will select a **Chapter Lead** [link to CCGN Rep and Public Lead Role descriptions] to be the main point of contact of the Chapter. Again, only CCGN Individual Members can be elected as such. Anyone can participate in the selection — we allow each chapter to determine how they do that, so long as the process is open and transparent.
     

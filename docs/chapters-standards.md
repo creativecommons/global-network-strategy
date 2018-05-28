@@ -29,19 +29,19 @@ The main responsibilities of a Chapter are to
 * Run activities and provide support to local projects.
 * Serve as a contact and information point for questions about CC.
 * Represent the CCGN in interactions with governments and organisations.
-* Maintain and update a country-specific website on cc.org. 
+* Maintain and update a country-specific website.
 * Establish country consensus on positions related to the CCGN.
 * Report on accomplishments and otherwise keep informed the GNC about the Chapter’s activities.
 * Elect a representative for the GNC and ensure that person actively fulfills those responsibilities.
-* Ensure country positions align with global positions of platforms where they exist, and where they do not exist ensure that positions taken by the Chapter and its Members and other participants align with CC’s mission and overall objectives. This anticipates coordination with CC and the CCGN through the Chapter’s representation when positions are uncertain, or when new positions may reasonably be considered controversial.
+* Ensure country positions align with global positions of Network Platforms where they exist, and where they do not exist ensure that positions taken by the Chapter and its Members and other participants align with CC’s mission and overall objectives. This anticipates coordination with CC and the CCGN through the Chapter’s representation when positions are uncertain, or when new positions may reasonably be considered controversial.
 
 ## Membership of Chapters
 
-Local CC Chapters are comprised of Network Members who are working to further the Creative Commons mission and vision in that country. The Chapter may also include Country Contributors as described above. Chapters are given flexibility to establish rules about joining and participating in the work of the Chapter. However, these rules **must not be used** to exclude individuals or organizations who have a demonstrated commitment to contribute to the overall objectives of Creative Commons as long as they abide by CC policies and any additional Chapter policies and rules. If, by whatever process is established by a Chapter for admission of a Country Participant, there is disagreement about denying participation in a Chapter, the affected individual or organization may refer the matter to the GNC ‘s Dispute Resolution Committee for resolution.
+Local CC Chapters are comprised of Network Members who are working to further the Creative Commons mission and vision in that country. The Chapter may also include Country Contributors as described above. Chapters are given flexibility to establish rules about joining and participating in the work of the Chapter. However, these rules **must not be used** to exclude individuals or organizations who have a demonstrated commitment to contribute to the overall objectives of Creative Commons as long as they abide by CC policies and any additional Chapter policies and rules. Disputes over denying participation in a Chapter will be referred to the GNC's Dispute Resolution Committee at the election of the aggrieved Chapter Participant. 
 
 ## What else can a local Chapter do?
 
-As long as they are aligned with the set of documents established by the Global Network and don’t contradict the Creative Commons mission and vision, Chapters can establish the following:
+As long as they are aligned with the set of documents established by the Global Network and don’t contradict the Creative Commons mission and vision and policies, Chapters can establish the following:
 
 * Specific rules for decision-making processes aligned with the CC mission and vision provided they do not discriminate or otherwise unjustifiable promote a culture of exclusion;
 * Specific rules and process for participation as a Country Participant;
