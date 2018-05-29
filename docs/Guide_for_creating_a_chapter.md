@@ -8,7 +8,7 @@ Chapters serve as the central coordinator of the work of the individuals and ins
 
 Stuff you should keep in mind:
 
-* [What is a Chapter and why would I like to participate?](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md)
+* [What is a Chapter and why would I like to participate?](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md)
 * What policies must you keep in mind? 
     * [Internet Services policy](https://github.com/creativecommons/global-network-strategy/blob/master/docs/CCGN_Internet_Services_Policy.md)
     * [Trademark policy](https://creativecommons.org/policies/#trademark)
