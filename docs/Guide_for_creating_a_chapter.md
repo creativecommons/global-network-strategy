@@ -56,9 +56,9 @@ To form a Chapter at least one or more of you must be a member of the Creative C
 
 * At a minimum, two things need to happen during the first meeting:
 
-    1. Chapter will elect a member as a **Representative** [https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md] at the Global Network Council. Only CCGN Individual Members can elect the Representative, and only CCGN Individual Members can be elected.
+    1. Chapter will elect a member as a [**Representative**](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md) at the Global Network Council. Only CCGN Individual Members can elect the Representative, and only CCGN Individual Members can be elected.
 
-    2. Chapter will select a **Chapter Lead** [link to CCGN Rep and Public Lead Role descriptions] to be the main point of contact of the Chapter. Again, only CCGN Individual Members can be elected as such. Anyone can participate in the selection — we allow each chapter to determine how they do that, so long as the process is open and transparent.
+    2. Chapter will select a [**Chapter Lead**](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md) to be the main point of contact of the Chapter. Again, only CCGN Individual Members can be elected as such. Anyone can participate in the selection — we allow each chapter to determine how they do that, so long as the process is open and transparent.
     
     [optional] Some Chapters may want to have some structure to manage areas of interest, or have spokespeople, or designate subject matter leads. We leave that to each local group to organize so you can adapt to your needs. You might want to discuss that at your first meeting, or suggest ways to address those needs for the next meeting.
 
