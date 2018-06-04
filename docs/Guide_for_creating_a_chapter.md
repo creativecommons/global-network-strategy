@@ -14,7 +14,7 @@ Stuff you should keep in mind:
     * [Trademark policy](https://creativecommons.org/policies/#trademark)
     * [The CC Charter](https://creativecommons.org/wp-content/uploads/2017/11/Global_Network_Membership_Charter.pdf), including the Code of Conduct
 * [Role description for Chapter Lead or Chapter Coordinator](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md)
-* [Frequently Asked Questions](https://network.creativecommons.org/faqs/)
+* [Frequently Asked Questions](https://network.creativecommons.org/docs-and-faqs/)
 
 ## Table of Contents of this Guide
 
