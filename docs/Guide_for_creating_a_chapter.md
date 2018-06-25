@@ -2,7 +2,7 @@
 
 You want to start a new Chapter in your country? Great, this is your guide.
 
-Chapters serve as the central coordinator of the work of the individuals and institutions participating within a country in support of the Creative Commons Global Network ("CCGN"). **This guide will provide instructions and guiadance on how to create a chapter if one does not already exist**. 
+Chapters serve as the central coordinator of the work of the individuals and institutions participating within a country in support of the Creative Commons Global Network ("CCGN"). **This guide will provide instructions and guidance on how to create a chapter if one does not already exist**. 
 
 ## First Chapter meeting Toolkit
 
