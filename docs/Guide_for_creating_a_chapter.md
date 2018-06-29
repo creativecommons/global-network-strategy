@@ -28,7 +28,7 @@ Stuff you should keep in mind:
 
 First, [check whether there is a Chapter already in your country](https://network.creativecommons.org/chapters).
 
-You may find more information into the [Chapter Guidelines document](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md) for general orientation about what a Chapter is and what is supossed to do. If you need any further guidance or help, just let us know by getting in touch with Simeon, CC's Network Manager (simeon@creativecommons.org).
+You may find more information into the [Chapter Guidelines document](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md) for general orientation about what a Chapter is and what is supossed to do. If you need any further guidance or help, just let us know by getting in touch with Simeon, CC's Network Manager (simeon@creativecommons.org).
 
 To form a Chapter at least one or more of you must be a member of the Creative Commons Global Network (though you don't have to be a member to get involved in projects or chapter activities). Members play a role in governing the network, and have to have some experience working in CC communities to be approved by their peers [Here are the instructions to become a Member of the CCGN](https://network.creativecommons.org/sign-up/individual/). 
 
@@ -38,7 +38,7 @@ To form a Chapter at least one or more of you must be a member of the Creative C
 
 * Remember the first Chapter meeting is neither a "members" meeting or an _affiliate_ meeting, but a chapter meeting. This means that if you are coordinating the organization of the first meeting, **you must invite and include everyone interested, especially all approved members in your country**, conduct outreach with sufficient notice to ensure everyone interested is aware of the meeting, and conduct the meeting as openly and visibly as you can. We will help you with that. 
 * Check of any existent member of the network interested in your Country and invite them to this meeting. [Click here -it requires you to be logged in-](https://network.creativecommons.org/search-members-chapter-interest/) to search for other people and let them know you are interested into organize this meeting. 
-* **Be familiar with the documentation**. Be sure you are familiar with the [CCGN Strategy](https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md), the [Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md) (including the Code of Conduct and the policies contained and referenced therein) and, especially, the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md). Encourage everyone participating in the first meeting to have reviewed all of those documents in advance. 
+* **Be familiar with the documentation**. Be sure you are familiar with the [CCGN Strategy](https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md), the [Charter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md) (including the Code of Conduct and the policies contained and referenced therein) and, especially, the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md). Encourage everyone participating in the first meeting to have reviewed all of those documents in advance. 
 * **It is not required that this meeting be in-person**. It will always be a challenge to connect with all volunteers within a country; however, we strongly encourage you to provide ways for those who cannot be present in-person to participate remotely, absent some logistical difficulties. Again, notify the Network Manager if you need assistance.
 
 ### LET US KNOW
@@ -47,7 +47,7 @@ To form a Chapter at least one or more of you must be a member of the Creative C
 * **Communicate** to those participating in the initial meeting that:
 	* Only Individual Members of the CCGN may serve as a [Representative or Chapter Lead](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md), though all Country Participants (members and non-members alike) may participate in their selection. 
 	* Members and non members may only participate in the selection of Representatives for one Chapter (i.e., you can't participate in selecting the representatives of multiple chapters).
-* See the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md) for more information.
+* See the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md) for more information.
 * Prepare and publish a clear agenda in advance, designate a person to be the note-taker, and invite as many people as you can!
 
 ## Step 3: Convene the First Meeting
