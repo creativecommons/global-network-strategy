@@ -10,7 +10,7 @@ Stuff you should keep in mind:
 
 * [What is a Chapter and why would I like to participate?](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md)
 * What policies must you keep in mind? 
-    * [Internet Services policy](https://github.com/creativecommons/global-network-strategy/blob/master/docs/CCGN_Internet_Services_Policy.md)
+    * [Internet Services policy](https://creativecommons.org/policies/#Internet%20Services)
     * [Trademark policy](https://creativecommons.org/policies/#trademark)
     * [The CC Charter](https://creativecommons.org/wp-content/uploads/2017/11/Global_Network_Membership_Charter.pdf), including the Code of Conduct
 * [Role description for Chapter Lead or Chapter Coordinator](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md)
