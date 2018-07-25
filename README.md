@@ -23,7 +23,6 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [Guidelines for vouching applicants](/docs/Guide_for_vouching_applicants.md) |
 | [Guidelines for approving new members](/docs/Guide_for_approve_new_members.md) |
 | [Guidelines for becoming an Institutional Member](/docs/Guide_to_becoming_an_institutional_member.md) |
-| [CCGN Internet Services Policy](/docs/CCGN_Internet_Services_Policy.md) |
 | [The Advisory Group for the Transition](/docs/the-advisory-group.md) | 
 | [The Network Platforms](https://github.com/creativecommons/network-platforms) | 
 | [The Interim Membership Council](/docs/the-interim-membership-council.md) | 
