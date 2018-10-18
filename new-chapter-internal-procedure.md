@@ -14,9 +14,9 @@ At this point, the following procedure shall follow:
 
 ## Step 3
 
-* Add the Representative to the Global Network Council to the [Global Network Council Google Group](https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
+* Add the Representative to the Global Network Council to the [Global Network Council mailing list](https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
 
-## Step 3
+## Step 4
 
 * Create a new page for the Chapter on the Network Site and add to it the following details:
 	* Date Founded
@@ -28,7 +28,7 @@ At this point, the following procedure shall follow:
 	
 * Update the [Chapters page on the Network site](https://network.creativecommons.org/chapters/) by adding a link to the new Chapter page
 
-## Step 4
+## Step 5
 
 * Notify the Interim Membership Committee (IMC), and the wider CC Community on Slack that a chapter has been formed a meeting. These announcements will be posted in the #imc and #general channel on Slack in the following format:
 
@@ -45,6 +45,6 @@ At this point, the following procedure shall follow:
 * List all chapters and when available, tag chapter channels
 ```
 
-## STEP 5
+## STEP 6
 
 * Take a deep breath and feel happy about yourself :D
