@@ -14,6 +14,10 @@ At this point, the following procedure shall follow:
 
 ## Step 3
 
+* Add the Representative to the Global Network Council to the [Global Network Council Google Group] (https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
+
+## Step 3
+
 * Create a new page for the Chapter on the Network Site and add to it the following details:
 	* Date Founded
 	* Name of the Representative to the Global Network Council
