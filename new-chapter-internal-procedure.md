@@ -5,7 +5,7 @@ At this point, the following procedure shall follow:
 
 ## Step 1:
 
-* Updload the First Chapter Meeting Minutes to [this Google Drive Folder](https://drive.google.com/open?id=1IY3JM7p2XL7CZ5H5jeo1AQ5ulrYZtmww)
+* Upload the First Chapter Meeting Minutes to [this Google Drive Folder](https://drive.google.com/open?id=1IY3JM7p2XL7CZ5H5jeo1AQ5ulrYZtmww)
 * Set the Permissions for the file to "Anyone with the link can view"
 
 ## Step 2
@@ -18,11 +18,11 @@ At this point, the following procedure shall follow:
 	* Date Founded
 	* Name of the Representative to the Global Network Council
 	* Name of the Chapter Lead
-	* Contact details of Chapter (add a mailto: link including the Chapter Lead, the Representative to the Global Network 		council and CC network@creativecommons.org
+	* Contact details of Chapter (add a mailto: link including the Chapter Lead, the Representative to the Global Network 		council and CC network@creativecommons.org)
 	* Link to active Social Media (Twitter preferably)
 	* Link to the minutes of First Chapter Meeting
 	
-* Update the [Chapters page on the Network site](https://network.creativecommons.org/chapters/) by adding a link to the new Chapter page and 
+* Update the [Chapters page on the Network site](https://network.creativecommons.org/chapters/) by adding a link to the new Chapter page
 
 ## Step 4
 
