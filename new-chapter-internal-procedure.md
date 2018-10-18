@@ -14,7 +14,7 @@ At this point, the following procedure shall follow:
 
 ## Step 3
 
-* Add the Representative to the Global Network Council to the [Global Network Council Google Group] (https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
+* Add the Representative to the Global Network Council to the [Global Network Council Google Group](https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
 
 ## Step 3
 
