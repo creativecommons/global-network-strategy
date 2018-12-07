@@ -1,22 +1,22 @@
-# Global Network Strategy
+# Creative Commons Global Network Strategy
 
 ## Key documentation
 
 1. Creative Commons has a [Network Strategy](GlobalNetworkStrategy-Final.md)
 2. The [CC Network Platforms](https://github.com/creativecommons/network-platforms) are the way you can join the CC volunteers around the world!
-3. ⚠️ Read our [Charter](https://creativecommons.org/about/global-affiliate-network/charter/), includes our Code of Conduct.
+3. ⭐ Read our [Charter](https://creativecommons.org/about/global-affiliate-network/charter/), includes our **Code of Conduct**.
 4. Check our [CC Network webpage](https://network.creativecommons.org/)
 
 ## What you will find here
 
-| Do you want to get involved with the CC Global Network?? |
+| Information about the CC Global Network |
 |:--|
 | Check our [CC Network webpage](https://network.creativecommons.org/) |
-| You can [apply for being a CC Network member](https://network.creativecommons.org/) |
+| [Apply for being a CC Network member](https://network.creativecommons.org/) |
 | [Do you want your organization to be an Institutional Member of the Network?](/docs/Guide_to_becoming_an_institutional_member.md) |
 | Join us [at Slack!](https://network.creativecommons.org) |
 
-| Do you want to create or join a CC Chapter? |
+| Creating CC Chapter |
 |:--|
 | [List of our CC Chapters around the world](https://network.creativecommons.org/chapters/) |
 | [How to create a new Chapter?](/docs/Guide_for_creating_a_chapter.md) |
