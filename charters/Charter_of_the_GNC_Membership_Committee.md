@@ -1,6 +1,6 @@
 # Charter of the Membership Committee of the Creative Commons Global Network Council
 
-*Adopted December [5], 2018*
+*Adopted December 5, 2018*
 
 ### Mission Statement and Responsibilities
 
