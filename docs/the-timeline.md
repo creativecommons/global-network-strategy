@@ -1,5 +1,9 @@
 ## Transition Timeline
 
+| **Important note** |
+|:--|
+| This document is no longer updated as far the Global Network Council started working on November 2018 |
+
 > (from now until CC Summit and first Global Network Council Meeting)
 
 | [The Timeline for the Transition](https://creativecommons.org/2017/12/08/network-strategy-transition-towards-new-model/) |  |
