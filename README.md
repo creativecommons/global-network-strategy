@@ -31,7 +31,7 @@
 | [Global Network Council _Executive Committee_ Charter](/charters/Charter_of_the_GNC_Executive_Committee.md) |
 | [Global Network Council _Membership Council_ Charter](/charters/Charter_of_the_GNC_Membership_Committee.md) |
 
-| **The Global Network Council* |
+| The Global Network Council |
 |:--|
 | [What is the Global Network Council and who is part of it?](/docs/the_global_network_council.md) |
 | [GNC meetings public log](https://network.creativecommons.org/GNC_meetings) |
