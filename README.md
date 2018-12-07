@@ -1,9 +1,5 @@
 # Global Network Strategy
 
-This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz).
-
-> Do you want to edit? Is there a typo around? [No problem](https://help.github.com/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
-
 ## Key documentation
 
 1. Creative Commons has a [Network Strategy](GlobalNetworkStrategy-Final.md)
@@ -31,7 +27,7 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [Who is a GNC Representative or a CC Chapter Lead?](/docs/Role_descriptions_GNC_rep_and_Chapter_lead.md) |
 | [Do you receive a vouching request and don't know what to do?](/docs/Guide_for_vouching_applicants.md) |
 | [Are you a member of the Membership Council and need some guidance?](/docs/Guide_for_approve_new_members.md) |
-| [Global Network Council Charter](/charters/Charter_of_the_Global_Network_Council) |
+| [Global Network Council Charter](/charters/Charter_of_the_Global_Network_Council.md) |
 | [Global Network Council _Executive Committee_ Charter](/charters/Charter_of_the_GNC_Executive_Committee.md) |
 | [Global Network Council _Membership Council_ Charter](/charters/Charter_of_the_GNC_Membership_Committee.md) |
 
@@ -50,3 +46,9 @@ This is the repo for the public documentation regarding the Creative Commons Glo
 | [Frequently Asked Questions](/docs/FAQ.md) | 
 
 Do you have any question? [Join us](https://network.creativecommons.org) at Slack!
+
+---
+
+This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz).
+
+> Do you want to edit? Is there a typo around? [No problem](https://help.github.com/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
