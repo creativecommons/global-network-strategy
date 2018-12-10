@@ -27,8 +27,13 @@ The Creative Commons Global Network Council (the "GNC" or the “Council) establ
 The Committee shall:
 
 (a) Possess and exercise the authority of the GNC in the management of its business between meetings of the GNC;
+
 (b) Identify and nominate officers of the GNC;
+
 (c) Make recommendations on the establishment of committees to support the work of the GNC;
+
 (d) Call meetings and publish agenda for GNC meetings;
+
 (e) Maintain minutes of Committee meetings and keep the GNC reasonably informed of activities and actions undertaken by it between meetings of the GNC; and
+
 (f) Perform other tasks as may be necessary between meetings of the GNC or as may be delegated to it by the GNC.
