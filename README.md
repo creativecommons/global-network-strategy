@@ -29,7 +29,7 @@
 | [Are you a member of the Membership Council and need some guidance?](/docs/Guide_for_approve_new_members.md) |
 | [Global Network Council Charter](/charters/Charter_of_the_Global_Network_Council.md) |
 | [Global Network Council _Executive Committee_ Charter](/charters/Charter_of_the_GNC_Executive_Committee.md) |
-| [Global Network Council _Membership Council_ Charter](/charters/Charter_of_the_GNC_Membership_Committee.md) |
+| [Global Network Council _Membership Committee_ Charter](/charters/Charter_of_the_GNC_Membership_Committee.md) |
 
 | The Global Network Council |
 |:--|
@@ -41,7 +41,7 @@
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
 | ~~[The Advisory Group for the Transition](/docs/the-advisory-group.md)~~ | 
-| [The Interim Membership Council](/docs/the-interim-membership-council.md) | 
+| [The Interim Membership Committee](/docs/the-interim-membership-council.md) | 
 | ~~[The Timeline](/docs/the-timeline.md)~~ | 
 | [Frequently Asked Questions](/docs/FAQ.md) | 
 
