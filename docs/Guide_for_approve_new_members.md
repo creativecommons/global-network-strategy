@@ -1,7 +1,7 @@
 
 # Membership Committee: How to approve new members of the Network
 
-## 5 first things to do:
+## 4 first things to do:
  
 1. Check the [applications pending of approving](https://network.creativecommons.org/wp-admin/users.php?page=global-network-application-approval).
 2. **Read carefully each application under review**. Also, read carefully the vouching statements made by the vouchers of each application. There, you will find more information about the person applying and their connection with the Commons. 
@@ -35,11 +35,11 @@ Each application shows the type of application, its state, the number of Vouches
 The username is the link to the Application details page.
 To Vote on the Application you must follow that link heading to the Application details.
 
-![Membership Application screen](/docs/image_1.png)
+![Membership Application screen](/docs/approving_1.png)
 
 ### Review Application Details and vote
 
-![Application details screen](/docs/image_2.png)
+![Application details screen](/docs/approving_2.png)
 
 On the Application Details page is the information the Applicant entered when applying to become an Individual.
 
