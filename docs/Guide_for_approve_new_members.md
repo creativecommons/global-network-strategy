@@ -31,11 +31,15 @@ Once an application has been *formally vouched* (the Members mentioned as vouche
 ### Check the list of applications on approving stage
 Go to the ["Global Network Application Approval" page](https://network.creativecommons.org/wp-admin/users.php?page=global-network-application-approval) in the WordPress Admin section of the site. There, you will see the list of current applications that are at the approving stage.
 
-Each application shows the type of application, its state, the number of Vouches and Votes for it, and the application date.
-The username is the link to the Application details page.
-To Vote on the Application you must follow that link heading to the Application details.
-
 ![Membership Application screen](/docs/approving_1.png)
+
+Each application shows the type of application, its state, the number of Vouches and Votes for it, and the application date.
+
+The username is the link to the Application details page. To Vote on the Application you must follow that link heading to the Application details.
+
+We use 3 different colors, letting you know different information about the applications. With colors we identify whether you already voted for an application (green background), somebody asked the vocher for clarification (light orange background) or if the voucher already updated the information requested to be clarified (light blue background)
+
+![Membership Application screen](/docs/approving_4.png)
 
 ### Review Application Details and vote
 
@@ -48,6 +52,14 @@ After reviewing this information, and following this Guide, you can vote for or 
 Make sure to follow the **Evaluation Criteria Applicable to Vouchers and the Membership Committee** below and to discuss any concerns with the rest of the Membership Committee before voting.
 
 Once you have voted you cannot alter your vote, so double-check that you have chosen the correct option before submitting the form.
+
+### Asking for clarification
+
+If you are part of the Members Committee, you will be able to see, right below the statement wrote by each voucher, a button labeled 'Ask for clarification'. You should press this button in case you think the statement of support wrote by the voucher is not really clear or is not helpful for giving you a better sense about the application. 
+
+Once you ask for that clarification, the application will be displayed in a different color on the "Applications for Approval" window, showing now a light yellow color, as in the image below. 
+
+![Asking for clarification](/docs/approving_3.png)
 
 ## Evaluation Criteria Applicable to Vouchers and the Membership Committee
 
