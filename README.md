@@ -16,7 +16,7 @@
 | [Do you want your organization to be an Institutional Member of the Network?](/docs/Guide_to_becoming_an_institutional_member.md) |
 | Join us [at Slack!](https://network.creativecommons.org) |
 
-| Creating CC Chapter |
+| Creating a CC Chapter |
 |:--|
 | [List of our CC Chapters around the world](https://network.creativecommons.org/chapters/) |
 | [How to create a new Chapter?](/docs/Guide_for_creating_a_chapter.md) |
@@ -35,13 +35,15 @@
 |:--|
 | [What is the Global Network Council and who is part of it?](/docs/the_global_network_council.md) |
 | [GNC meetings public log](https://network.creativecommons.org/GNC_meetings) |
+| [The Executive Committee of the Global Network Council](https://network.creativecommons.org/GNC_ExCom.md) |
+| [The Membership Committee](https://network.creativecommons.org/membership_committee.md) |
 
 | What _else_ you will find here |
 |:--|
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
 | [The *new* Global Network](/docs/the-new-global-network.md) | 
 | ~~[The Advisory Group for the Transition](/docs/the-advisory-group.md)~~ | 
-| [The Interim Membership Committee](/docs/the-interim-membership-council.md) | 
+| ~~[The Interim Membership Committee](/docs/the-interim-membership-council.md)~~ | 
 | ~~[The Timeline](/docs/the-timeline.md)~~ | 
 | [Frequently Asked Questions](/docs/FAQ.md) | 
 
