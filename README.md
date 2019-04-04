@@ -35,8 +35,8 @@
 |:--|
 | [What is the Global Network Council and who is part of it?](/docs/the_global_network_council.md) |
 | [GNC meetings public log](https://network.creativecommons.org/GNC_meetings) |
-| [The Executive Committee of the Global Network Council](https://network.creativecommons.org/GNC_ExCom.md) |
-| [The Membership Committee](https://network.creativecommons.org/membership_committee.md) |
+| [The Executive Committee of the Global Network Council](/docs/GNC_ExCom.md) |
+| [The Membership Committee](/docs/membership_committee.md) |
 
 | What _else_ you will find here |
 |:--|
