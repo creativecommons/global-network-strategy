@@ -15,8 +15,8 @@ At this point, the following procedure shall follow:
 
 ## Step 3
 
-* Add the Representative to the Global Network Council to the [Global Network Council mailing list](https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council)
-* Add the Chapter Lead to the [CC Chapter Leads mailing list](https://groups.google.com/a/creativecommons.org/forum/#!forum/cc-chapter-leads)
+* Add the Representative to the Global Network Council to the [Global Network Council mailing list](https://groups.google.com/a/creativecommons.org/forum/#!forum/global-network-council) and the [GNC Group on Slack](https://creativecommons.slack.com/messages/GHFG7P6F8)
+* Add the Chapter Lead to the [CC Chapter Leads mailing list](https://groups.google.com/a/creativecommons.org/forum/#!forum/cc-chapter-leads) and the [Chapter Leads Group on Slack] (https://creativecommons.slack.com/messages/CE0J7TB6J)
 
 ## Step 4
 
