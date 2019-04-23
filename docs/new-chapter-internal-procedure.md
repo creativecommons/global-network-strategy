@@ -32,7 +32,7 @@ At this point, the following procedure shall follow:
 
 ## Step 5
 
-* Notify the Interim Membership Committee (IMC), and the wider CC Community on Slack that a chapter has been formed a meeting. These announcements will be posted in the #imc and #general channel on Slack in the following format:
+* Notify the Membership Committee (MC), and the wider CC Community on Slack that a chapter has been formed a meeting. These announcements will be posted in the #imc and #general channel on Slack in the following format:
 
 ```markdown
 **TEMPLATE ANNOUNCEMENT FOR THE NEW CC CHAPTER**
