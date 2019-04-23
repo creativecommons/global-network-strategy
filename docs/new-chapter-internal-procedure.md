@@ -10,6 +10,7 @@ At this point, the following procedure shall follow:
 
 ## Step 2
 
+* Create a GSuite Group Mailing List for the chapter [here](https://groups.google.com/a/creativecommons.org)
 * Update the [CCGN Canonical Tracking Sheet](https://docs.google.com/spreadsheets/d/1TVska58E8G21ejjQwo8KxWAF10p90c-AIfQQsgM8ewg/edit?usp=sharing) by adding the names and email addresses of the elected officials in the 'Chapters' tab.
 
 ## Step 3
