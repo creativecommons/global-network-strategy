@@ -4,7 +4,7 @@
 
 ### Mission Statement and Responsibilities
 
-The Creative Commons Global Network Council (the "GNC") establishes the Membership Committee (the “Committee”) for the purpose of handling matters related to membership and participation by individuals and institutions in the Global Affiliate Network, and such other activities as may be delegated to it by the GNC. 
+The Creative Commons Global Network Council (the "GNC") establishes the Membership Committee (the “Committee”) for the purpose of handling matters related to membership and participation by individuals and institutions in the Global Network, and such other activities as may be delegated to it by the GNC. 
 
 ### Organization
 
