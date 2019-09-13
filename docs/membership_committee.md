@@ -17,7 +17,7 @@ This group is composed by:
 * Kamel Belhamel (Algeria / Africa)
 * Emmanuel Malongo (Tanzania / Africa)
 * Franco Giandana (Argentina / Latin America and Caribbean)
-* Ryan Merkley (Canada, North America) - HQ Representative
+* CC CEO - HQ Representative
 * Diane Peters (US, North America) - HQ Representative
 * Claudio Ruiz (Chile, Latin America and Caribbean) - HQ Representative
 * Simeon Oriko (Kenya, Africa) - HQ Representative
