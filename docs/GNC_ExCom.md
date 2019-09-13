@@ -14,6 +14,6 @@ This group is composed by:
 * Franco Giadana (CC Argentina)
 * Ethan Senack (CC US)
 * Alek Tarkovski (CC Poland)
-* Ryan Merkley (Canada) - HQ Representative
+* CC CEO - HQ Representative
 * Delia Browne (Australia) - HQ Representative
 * Claudio Ruiz (Chile) - HQ Representative
