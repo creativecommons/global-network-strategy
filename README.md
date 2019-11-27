@@ -41,7 +41,6 @@
 | What _else_ you will find here |
 |:--|
 | [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
-| [The *new* Global Network](/docs/the-new-global-network.md) | 
 | ~~[The Advisory Group for the Transition](/docs/the-advisory-group.md)~~ | 
 | ~~[The Interim Membership Committee](/docs/the-interim-membership-council.md)~~ | 
 | ~~[The Timeline](/docs/the-timeline.md)~~ | 
