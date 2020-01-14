@@ -26,7 +26,7 @@ Stuff you should keep in mind:
 
 ## Step 1: Determine Status of CC Activities in Your Country; Join the CCGN
 
-First, [check whether there is a Chapter already in your country](https://network.creativecommons.org/chapters).
+First, [check whether there is a Chapter already in your country](https://network.creativecommons.org/chapter).
 
 You may find more information into the [Chapter Guidelines document](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md) for general orientation about what a Chapter is and what is supossed to do. If you need any further guidance or help, just let us know by getting in touch with Simeon, CC's Network Manager (simeon@creativecommons.org).
 
