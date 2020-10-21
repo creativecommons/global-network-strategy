@@ -1,39 +1,43 @@
-# Charter of the Executive Committee of the Creative Commons Global Network Council
+=Considerations for licensees=
 
-*Adopted December 5, 2018*
+===Understand the license.===
 
-### Mission Statement
+======Read the legal code, not just the deed.====== 
+The human-readable deed is a summary of, but not a replacement for, the [[legal code]]. It does not explain everything you need to know before using licensed material. 
 
-The Creative Commons Global Network Council (the "GNC" or the “Council) establishes the Executive Committee (the “Committee”) for the purpose of leading the work of the GNC, to act in the stead of the GNC between meetings, and to undertake such other activities as may be delegated to it by the GNC.
+======Make sure the license grants permission for what you want to do.====== 
+There are six different CC licenses. Two of the licenses prohibit the sharing of [[/Frequently_Asked_Questions#What_is_an_adaptation.3F|adaptations]] (BY-ND, BY-NC-ND); three prohibit [[Frequently_Asked_Questions#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F|commercial uses]] (BY-NC, BY-NC-ND, BY-NC-SA), and two require adaptations be licensed [[Frequently_Asked_Questions#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F|under the same license]] (BY-SA, BY-NC-SA). 
 
-### Organization
+======Take note of the particular version of the license.====== 
+The current version (4.0) [[License Versions|differs from prior versions in important respects]]. Similarly, the [[Frequently_Asked_Questions#What_are_the_international_.28.E2.80.9Cunported.E2.80.9D.29_Creative_Commons_licenses.2C_and_why_does_CC_offer_.E2.80.9Cported.E2.80.9D_licenses.3F|jurisdiction ports]] may differ in certain terms, such as dispute resolution and choice of law.   
 
-1. The Committee shall consist of nine (9) members. The Committee shall consist of the CEO of Creative Commons, two staff members appointed by Creative Commons, and six representatives elected from the GNC ("Council Representatives"), one of whom shall be the Chair of the GNC unless such individual is also a member appointed by Creative Commons to serve on the Committee. The Chair of the GNC shall serve as Chair of the Committee until such time, if any, as the Committee elects another or resigns.
+===Scope of the license.===
 
-2. All members of the Executive Committee shall have voting rights on matters within its purview.
+======Pay attention to what exactly is being licensed.======
+The licensor should have [[Marking_your_work_with_a_CC_license|marked]] which elements of the work are subject to the license and which are not. For those elements that are not subject to the license, [[/Frequently_Asked_Questions#Does_a_Creative_Commons_license_give_me_all_the_rights_I_need_to_use_the_work.3F|you may need separate permission]]. 
 
-3. The Secretary of the GNC shall act as Secretary of the Committee and ensure meeting records are properly maintained.
+======Consider clearing rights if you are concerned.======  
+The license does not contain a warranty, so if you think there may be third party rights in the material, you may want to clear those rights in advance. 
 
-4. The term of Committee members shall be one year, appointed annually at the Annual Meeting of the Council.
+======Some uses of licensed material do not require permission under the license.====== 
+If the use you want to make of a work falls within an [[Frequently_Asked_Questions#Do_I_always_have_to_comply_with_the_license_terms.3F_If_not.2C_what_are_the_exceptions.3F|exception or limitation]] to copyright or similar rights, you may do so.  Those uses are unregulated by the license.
 
-5. The Committee shall meet as necessary but shall strive to do so no less than quarterly. The Committee shall meet at least one month in advance of the Annual Meeting to plan and establish an agenda. Meetings may be conducted by phone, video call, or other remote means.  Meetings may take place in one or more sessions to accommodate time zones of Committee members, provided the same agenda is presented at each session, and notes summarizing any recommendations are made available to all eligible participants from the meetings.
+===Know your obligations.===
 
-6. The Committee may adopt rules of procedure provided they are not inconsistent with any established by the GNC for the conduct of the Committee.
+======Provide attribution.====== 
+All CC licenses require you provide [[Frequently_Asked_Questions#How_do_I_properly_attribute_material_offered_under_a_Creative_Commons_license.3F|attribution]] and [[Marking/Users|mark the material]] when you share it publicly. The specific requirements [[License_Versions#Attribution-specific_elements|vary slightly across versions]].
 
-7. Decisions of the Committee shall be made by consensus when possible. All Committee members shall be entitled to vote on all matters brought before the Committee for official decision when a consensus is not reached. A majority of the Committee shall constitute a quorum for conducting business at any meeting, and the act of a majority of Committee members present at any meeting will be deemed the act of the Committee.  
+======Do not restrict others from exercising rights under the license.====== 
+All CC licenses prohibit you from [[Frequently_Asked_Questions#Can_I_use_effective_technological_measures_.28such_as_DRM.29_when_I_share_CC-licensed_material.3F|applying effective technological measures]] or imposing legal terms that would prevent others from doing what the license permits. 
 
-### Roles and Responsibilities of the Committee
+======Determine what, if anything, you can do with adaptations you make.====== 
+Depending on what type of license is applied, you are limited in [[Frequently_Asked_Questions#Can_I_combine_material_that_uses_different_Creative_Commons_licenses_into_my_work.3F|whether you can share your adaptation]] and if so, [[Frequently_Asked_Questions#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F|what license you can apply to your contributions]].
 
-The Committee shall:
+======Termination is automatic.======  
+All CC licenses [[Frequently_Asked_Questions#How_can_I_lose_my_rights_under_a_Creative_Commons_license.3F_If_that_happens.2C_how_do_I_get_them_back.3F|terminate automatically]] when you fail to comply with its terms.  If the material is under a 4.0 license, you must fix the problem within 30 days of discovery if you want your rights automatically reinstated. 
 
-(a) Possess and exercise the authority of the GNC in the management of its business between meetings of the GNC;
+===Consider licensor preferences.===
 
-(b) Identify and nominate officers of the GNC;
+======Consider complying with non-binding requests by the licensor.====== 
+The licensor may make special requests when you use the material. We recommend you do so when reasonable, but that is your option and not your obligation.
 
-(c) Make recommendations on the establishment of committees to support the work of the GNC;
-
-(d) Call meetings and publish agenda for GNC meetings;
-
-(e) Maintain minutes of Committee meetings and keep the GNC reasonably informed of activities and actions undertaken by it between meetings of the GNC; and
-
-(f) Perform other tasks as may be necessary between meetings of the GNC or as may be delegated to it by the GNC.
