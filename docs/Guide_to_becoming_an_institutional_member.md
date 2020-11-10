@@ -8,6 +8,15 @@ Are you with an organization that has served as a CC affiliate? Are you a schola
 
 ## Some important facts about institutional membership
 
+* In order to apply for institutional membership to the CCGN, your institution must be a legal entity; if it is not, then individuals associated with a group may always apply for individual membership. 
+
+* Your institution will not be eligible for membership in the CCGN if its one of the following: 
+	* Political parties
+	* Lobbying firms and groups
+	* Governments and government agencies, legislatures etc. (but not including government-funded institutions such as universities)
+
+It is not eligible for membership in the CCGN although any of its individual members may apply. This is due in part to partisanship and lobbying concerns. It’s also possible that other concerns may arise with regard to certain categories of institutions. Remember: you can always join as an individual through our normal processes, even if your institution is not accepted. 
+
 * **Organizations with a CC affiliate agreement or MOU as of the end of 2017  with CC are encouraged to continue their relationship with CC**. With the launch of the new Global Network structure, the affiliate program is closed as of the end of 2017, and all existing affiliate agreements will be terminated. However, we hope to continue to strengthen our cooperation with all CC affiliates and other organizations with any relationship with CC through a transition from affiliate status to Institutional Member status. 
 
 * **Organizations with a terminated or expired CC affiliate agreement or MOU are encouraged to renew their relationship with CC.** If your organization has been involved with CC in the past but is no longer active, consider becoming an Institutional Member in the new Global Network structure. This includes organizations that have never had a formal relationship with CC but have been involved and wish to continue being involved with the CC community.
