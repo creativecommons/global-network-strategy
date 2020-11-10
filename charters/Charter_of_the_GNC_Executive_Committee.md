@@ -1,6 +1,6 @@
 # Charter of the Executive Committee of the Creative Commons Global Network Council
 
-*Adopted December 5, 2018*
+*Adopted December 5, 2018, amended November 10, 2020*
 
 ### Mission Statement
 
@@ -12,11 +12,11 @@ The Creative Commons Global Network Council (the "GNC" or the “Council) establ
 
 2. All members of the Executive Committee shall have voting rights on matters within its purview.
 
-3. The Secretary of the GNC shall act as Secretary of the Committee and ensure meeting records are properly maintained.
+3. The Secretary of the GNC shall act as Secretary of the Committee, and shall schedule meetings  and ensure meeting records are properly maintained.
 
-4. The term of Committee members shall be one year, appointed annually at the Annual Meeting of the Council.
+4. The term of Committee members shall be two years. One-half of the Committee members shall be appointed annually for open positions at the Annual Meeting of the Council. The Committee is responsible for determining the initial staggering of terms.The Members are elected in their individual capacities, and will serve their full term even if a Chapter replaces its GNC Representative prior to the conclusion of their term; provided, however, that the Committee member must remain a member of the CCGN.
 
-5. The Committee shall meet as necessary but shall strive to do so no less than quarterly. The Committee shall meet at least one month in advance of the Annual Meeting to plan and establish an agenda. Meetings may be conducted by phone, video call, or other remote means.  Meetings may take place in one or more sessions to accommodate time zones of Committee members, provided the same agenda is presented at each session, and notes summarizing any recommendations are made available to all eligible participants from the meetings.
+5. The Committee shall meet as necessary but shall strive to do so no less than quarterly. The Committee shall meet at least one month in advance of the Annual Meeting, which shall take place in Q4 of each calendar year, to plan and establish an agenda. Meetings may be conducted by phone, video call, or other remote means.  Meetings may take place in one or more sessions to accommodate time zones of Committee members, provided the same agenda is presented at each session, and notes summarizing any recommendations are made available to all eligible participants from the meetings.
 
 6. The Committee may adopt rules of procedure provided they are not inconsistent with any established by the GNC for the conduct of the Committee.
 
