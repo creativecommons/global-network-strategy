@@ -1,6 +1,6 @@
 # Charter of the Membership Committee of the Creative Commons Global Network Council
 
-*Adopted December 5, 2018, amended November 10, 2020*
+*Adopted December 5, 2018, amended November 10, 2020 and February 16, 2021*
 
 ### Mission Statement and Responsibilities
 
@@ -8,11 +8,11 @@ The Creative Commons Global Network Council (the "GNC") establishes the Membersh
 
 ### Organization
 
-1. The Committee shall consist of fifteen (15) members, comprised as follows:  twelve (12) members of the CCGN, including its Chair; the CEO of Creative Commons; and the CC Global Network Manager and the CC Director of Ecosystem Strategy. In addition, the General Counsel of Creative Commons or their designee shall serve as an ex officio non-voting member of the Committee. Nominations for election to the Membership Committee are open to Council Representatives. The Committee will ensure an open call for nominations takes place annually for open positions, in a manner to be established in consultation with the Executive Committee of the Council.
+1. The Committee shall consist of thirteen (13) members, comprised as follows:  eleven (11) members of the CCGN, including its Chair; the CEO of Creative Commons; and the CC Global Network Manager. In addition, legal counsel of Creative Commons shall serve as an ex officio non-voting member of the Committee. Nominations for election to the Membership Committee are open to Council Representatives. The Committee will ensure an open call for nominations takes place annually for open positions, in a manner to be established in consultation with the Executive Committee of the Council.
 
 2. The Committee shall select a Chair to serve at the pleasure of the Committee, and such other officers as the Committee may deem appropriate
 
-3. All members of the Membership Committee shall have voting rights on matters within its purview, other than the General Counsel of Creative Commons or their designee.
+3. All members of the Membership Committee shall have voting rights on matters within its purview, other than the legal counsel of Creative Commons.
 
 4. Unless otherwise selected by the Committee, the Secretary of the GNC shall act as Secretary of the Committee and shall schedule meetings and ensure meeting records are properly maintained.
 
