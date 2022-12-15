@@ -42,7 +42,7 @@ June, 2017. (*[last reviewed](https://github.com/creativecommons/global-network-
 	- [Fundraising](#fundraising)
 		- [Fundraising for the CCGN](#fundraising-for-the-ccgn)
 		- [Fundraising for CC Chapters and projects](#fundraising-for-cc-chapters-and-projects)
-- [Glossary / List of Entities](#glossary-list-of-entities)
+- [Glossary / List of Entities](#glossary--list-of-entities)
 
 
 # Context and background information
