@@ -8,4 +8,4 @@ The Council is formed by all the [Global Council Chapter Representative](https:/
 
 | Members of the Global Network Council |  
 |:--|
-| [See here](https://network.creativecommons.org/chapters) | 
+| [See here](https://network.creativecommons.org/chapter/) | 
