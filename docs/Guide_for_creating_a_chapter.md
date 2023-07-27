@@ -87,5 +87,7 @@ To form a Chapter at least one or more of you must be a member of the Creative C
 
 * Tell us about your meeting. The information about the meeting is important not just to know who will be the point of contact of the chapter from now on, but also to know more about your first meeting, your plans and your people! The Network Manager will be in contact with you from the early stages of the process to facilitate the process.
 
+* CC HQ will finalize chapter formation with the Chapter Lead via a signed agreement.
+
 * We will include your new chapter in the list of Creative Commons chapters part of the Global Network.
 
