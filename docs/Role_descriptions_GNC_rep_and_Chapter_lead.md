@@ -4,7 +4,7 @@ To serve as a Chapter Lead and/or GNC Representative, one must be an Individual 
 
 ## Role Description for Chapter Lead or Chapter Coordinator
 
-The CC Chapter Lead or Coordinator is the responsible person for coordinating and communicating on behalf of the CC Chapter regarding its activities. This person will be the main point of contact for the group of volunteers working in that country. The Coordinator will be selected via processes established by the members of the Chapter and consistent with the [Chapter Guidelines](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-guidelines.md). They are selected for a period, likely 1 or 2 years, to be determined by the GNC at a later date. 
+The CC Chapter Lead or Coordinator is the responsible person for coordinating and communicating on behalf of the CC Chapter regarding its activities. This person will be the main point of contact for the group of volunteers working in that country. The Coordinator will be selected via processes established by the members of the Chapter and consistent with the [Chapter Standards and Guidelines](https://github.com/creativecommons/global-network-strategy/blob/main/docs/chapters-standards.md). They are selected for a period, likely 1 or 2 years, to be determined by the GNC at a later date. 
 
 A Chapter Lead or Coordinator should: 
 
