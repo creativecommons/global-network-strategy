@@ -4,20 +4,16 @@ The Membership Committee consists of fifteen (15) individuals comprised as follo
 
 The responsibilities of the Membership Committee includes, among other matters, handling inquiries and disputes related to membership or participation in the CCGN or a Chapter, including membership applications and allegations and appeals involving violations of the Charter and Chapter policies and procedures. The list of responsibilities shall be set forth in the [Charter of the Membership Committee](https://github.com/creativecommons/global-network-strategy/blob/master/charters/Charter_of_the_GNC_Membership_Committee.md).
 
-This group is composed by:
+As of 13 Sep 2023, this group is composed of the following nine people. Note that you must be logged in to the Network website to see profiles of members.
 
-* Ilkay Holt (Turkey / Europe)
-* Irene Soria Guzmán (Mexico / Latin America and Caribbean)
-* Rock Hung (Taiwan / Asia-Pacific)
-* Christina Hendricks (Canada / North America)
-* Evelyn Del Pinal (El Salvador / Latin America and Caribbean)
-* Jessica Stevens (Australia / Asia-Pacific)
-* Mostafa Azad Kamal (Bangladesh / Asia-Pacific)
-* Kayode Yussuf (Nigeria / Africa)
-* Kamel Belhamel (Algeria / Africa)
-* Emmanuel Malongo (Tanzania / Africa)
-* Franco Giandana (Argentina / Latin America and Caribbean)
-* CC CEO - HQ Representative
-* Diane Peters (US, North America) - HQ Representative
-* Claudio Ruiz (Chile, Latin America and Caribbean) - HQ Representative
-* Simeon Oriko (Kenya, Africa) - HQ Representative
+1. [Brian Ssennoga](https://network.creativecommons.org/members/bssennoga/), CC Uganda, GNC Representative
+1. [Brigitte Vézina](https://creativecommons.org/author/brigittevezina/), CC, Director, Policy & Open Culture (HQ Representative)
+1. [Catherine Stihler](https://creativecommons.org/author/catherine/), CC, CEO (HQ Representative)
+1. [Katya Henry](https://network.creativecommons.org/members/katyahenry/), CCGN, Member (Australia)
+1. [Hilman Fathoni](https://network.creativecommons.org/members/hilmanasdf/), CC Indonesia, GNC Representative
+1. [Kamel Belhamel](https://network.creativecommons.org/members/kamel/), CC Algeria, Lead & GNC Representative
+1. [Kat Walsh](), CC, General Counsel (HQ Non-Voting Ex Officio Member)
+1. [Margorie Merel](https://network.creativecommons.org/members/margoriemerel/), CC Panama, GNC Represenative
+1. [Nate Angell](https://creativecommons.org/author/natecreativecommons-org/), CC, Director of Communications & Community (HQ Representative)
+
+\* Committee members serving during 2022 were asked to serve an additional year as no new selections were made for 2023.
