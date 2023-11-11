@@ -14,7 +14,7 @@
 | Check our [CC Network webpage](https://network.creativecommons.org/) |
 | [Apply for being a CC Network member](https://network.creativecommons.org/) |
 | [Do you want your organization to be an Institutional Member of the Network?](/docs/Guide_to_becoming_an_institutional_member.md) |
-| Join us [at Slack!](https://network.creativecommons.org) |
+| Join us [at Slack!](https://creativecommons.slack.com/) ([Signup link](https://slack-signup.creativecommons.org/)) |
 
 | Creating a CC Chapter |
 |:--|
