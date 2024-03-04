@@ -14,7 +14,7 @@
 
 4. How does the CC Global Network work?
 
-	Composed of Individual and Institutional Members and Contributors, CC Global Network is the overarching structure to help co-ordinate and provide leadership in the global Creative Commons movement. CC Global Network as a whole pursues and holds true to the visions, missions, values and guiding principles defined in the [Global Network Strategy](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) and [Global Network Membership Charter](https://creativecommons.org/wp-content/uploads/2017/11/Global_Network_Membership_Charter.pdf). Although it shares the same visions and values with and supported by CC HQ, the CC Global Network has a separate governance structure.
+	Composed of Individual and Institutional Members and Contributors, CC Global Network is the overarching structure to help co-ordinate and provide leadership in the global Creative Commons movement. CC Global Network as a whole pursues and holds true to the visions, missions, values and guiding principles defined in the [Global Network Strategy](https://creativecommons.org/wp-content/uploads/2017/05/GlobalNetworkStrategy-Final.pdf) and [Global Network Membership Charter](https://creativecommons.org/wp-content/uploads/2017/11/Global_Network_Membership_Charter.pdf). Although it shares the same visions and values with and supported by CC HQ, the CC ..Global Network has a separate governance structure.
 
 	There are three key elements of the Global Network: Chapters, Platforms, and Governance through the Global Network Council:
 
@@ -110,5 +110,4 @@
 
 21. I have been working with Creative Commons for a long time, but I’m unsure if I have to create or join a chapter to continue my current work. What’s the benefit of joining the CCGN and how may it make a difference?
 
-	You get to be part of the most awesome network that exists working in the open! As a member, you are able to know and work together with an amazing, diverse and global group of advocates for the Commons. You will be able to create a local Chapter, to apply for funding to support activities, and talk and act on behalf of the values of a global community.
-
+	You get to be part of the most awesome network that exists working in the open! As a member, you are able to know and work together with an amazing, diverse and global group of advocates for the Commons. You will be able to create a local Chapter, to apply for funding to support activities, and talk and act on behalf of the values of a global communit.Osama 
