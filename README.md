@@ -73,3 +73,6 @@ Do you have any question? [Join us](https://network.creativecommons.org) at Slac
 This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz).
 
 > Do you want to edit? Is there a typo around? [No problem](https://help.github.com/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
+
+
+©️
