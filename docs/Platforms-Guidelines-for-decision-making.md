@@ -25,3 +25,4 @@ Discussions related to the Platform take place in the mailing list. The list is 
 Platforms should make decisions in a consensus based model. Platform coordinators will work to ensure all voices and positions have been heard and represented as Platform members work to reach common goals through consensus.
 
 While communication and decisions should be made by consensus, in certain cases Platforms may wish to set working groups or committees for particular projects or activities.  Working groups should not be considered decision making bodies and all of their work should be done in the open, and openly communicated to the members of the Platform using Platform communication tools.
+  ![dart](https://github.com/user-attachments/assets/11b5c96e-96e0-4e6f-b295-bdf2a66984ab)
