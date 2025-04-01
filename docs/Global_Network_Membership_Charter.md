@@ -109,3 +109,4 @@ This Charter is first published on October 6th, 2017. Please note, that this Cha
 * First public version October 6th, 2017
 * Revised public version November 7th, 2017
 
+# "CCGN")
