@@ -6,39 +6,39 @@
 > The Creative Commons team is committed to fostering a welcoming community.
 > This project and all other Creative Commons open source projects are governed
 > by our [Code of Conduct][code_of_conduct]. Please report unacceptable
-> behavior to [conduct@creativecommons.org](mailto:conduct@creativecommons.org)
+> behavior to [conduct@creativecommons.org](github.com/aripitek/mailto:conduct@creativecommons.org)
 > per our [reporting guidelines][reporting_guide].
 
-[org-coc]: https://github.com/creativecommons/.github/blob/main/CODE_OF_CONDUCT.md
-[code_of_conduct]: https://opensource.creativecommons.org/community/code-of-conduct/
-[reporting_guide]: https://opensource.creativecommons.org/community/code-of-conduct/enforcement/
+[org-coc]: https://github.com/aripitek/creativecommons/.github/blob/main/CODE_OF_CONDUCT.md
+[code_of_conduct]: https://github.com/aripitek/opensource.creativecommons.org/community/code-of-conduct/
+[reporting_guide]: https://github.com/aripitek/opensource.creativecommons.org/community/code-of-conduct/enforcement/
 
 
 ## Contributing
 
 See [`CONTRIBUTING.md`][org-contrib].
 
-[org-contrib]: https://github.com/creativecommons/.github/blob/main/CONTRIBUTING.md
+[org-contrib]: https://github.com/aripitek/creativecommons/.github/blob/main/CONTRIBUTING.md
 
 ## Key documentation
 
 1. Creative Commons has a [Network Strategy](GlobalNetworkStrategy-Final.md)
-2. The [CC Network Platforms](https://github.com/creativecommons/network-platforms) are the way you can join the CC volunteers around the world!
-3. ⭐ Read our [Charter](https://creativecommons.org/about/global-affiliate-network/charter/), includes our **Code of Conduct**.
-4. Check our [CC Network webpage](https://network.creativecommons.org/)
+2. The [CC Network Platforms](https://github.com/aripitek/creativecommons/network-platforms) are the way you can join the CC volunteers around the world!
+3. ⭐ Read our [Charter](https://github.com/aripitek/creativecommons.org/about/global-affiliate-network/charter/), includes our **Code of Conduct**.
+4. Check our [CC Network webpage](https://github.com/aripitek/network.creativecommons.org/)
 
 ## What you will find here
 
 | Information about the CC Global Network |
 |:--|
-| Check our [CC Network webpage](https://network.creativecommons.org/) |
-| [Apply for being a CC Network member](https://network.creativecommons.org/) |
+| Check our [CC Network webpage](https://github.com/aripitek/network.creativecommons.org/) |
+| [Apply for being a CC Network member](https://github.com/aripitek/network.creativecommons.org/) |
 | [Do you want your organization to be an Institutional Member of the Network?](/docs/Guide_to_becoming_an_institutional_member.md) |
-| Join us [at Slack!](https://creativecommons.slack.com/) ([Signup link](https://slack-signup.creativecommons.org/)) |
+| Join us [at Slack!](https://github.com/aripitek/creativecommons.slack.com/) ([Signup link](https://slack-signup.creativecommons.org/)) |
 
 | Creating a CC Chapter |
 |:--|
-| [List of our CC Chapters around the world](https://network.creativecommons.org/chapters/) |
+| [List of our CC Chapters around the world](https://github.com/aripitek/network.creativecommons.org/chapters/) |
 | [How to create a new Chapter?](/docs/Guide_for_creating_a_chapter.md) |
 | [Chapter Standards](/docs/chapters-standards.md) |
 
@@ -54,7 +54,7 @@ See [`CONTRIBUTING.md`][org-contrib].
 | The Global Network Council |
 |:--|
 | [What is the Global Network Council and who is part of it?](/docs/the_global_network_council.md) |
-| [GNC meetings public log](https://network.creativecommons.org/GNC_meetings) |
+| [GNC meetings public log](https://github.com/aripitek/network.creativecommons.org/GNC_meetings) |
 | [The Executive Committee of the Global Network Council](/docs/GNC_ExCom.md) |
 | [The Membership Committee](/docs/membership_committee.md) |
 
@@ -66,10 +66,10 @@ See [`CONTRIBUTING.md`][org-contrib].
 | ~~[The Timeline](/docs/the-timeline.md)~~ | 
 | [Frequently Asked Questions](/docs/FAQ.md) | 
 
-Do you have any question? [Join us](https://network.creativecommons.org) at Slack!
+Do you have any question? [Join us](https://github.com/aripitek/network.creativecommons.org) at Slack!
 
 ---
 
-This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/claudioruiz).
+This is the repo for the public documentation regarding the Creative Commons Global Network Strategy. This repo it was created and is updated by [@claudio](https://github.com/aripitek/claudioruiz).
 
-> Do you want to edit? Is there a typo around? [No problem](https://help.github.com/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/creativecommons/global-network-strategy/issues/new). 
+> Do you want to edit? Is there a typo around? [No problem](https://help.github.com/aripitek/articles/editing-files-in-another-user-s-repository/). You can also [submit an issue here](https://github.com/aripitek/creativecommons/global-network-strategy/isuser/new). 
